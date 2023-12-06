@@ -28,15 +28,6 @@ def write_to_csv(Data):
         writer.writerow(Data)
         f.close()
 
-# Checks whether last page has been reached
-def page_checker(driver):
-    current_page = driver.find_element(By.XPATH,'//*[@id="ciHomeContentlhs"]/div[3]/table[2]/tbody/tr/td[1]/b[1]')
-    last_page = driver.find_element(By.XPATH,'//*[@id="ciHomeContentlhs"]/div[3]/table[2]/tbody/tr/td[1]/b[2]')
-    if int(current_page.text) <= int(last_page.text):
-        return 1
-    else:
-        return 0
-
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_experimental_option("detach",True)
 
@@ -60,7 +51,7 @@ attr.remove('')
 write_to_csv(attr) # csv file created and column names added
 print("csv file created")
 
-while page_checker(driver):
+while True:
     page_data = driver.find_elements(By.CLASS_NAME,'data1') #Get all the rows from the page
     for row_data in page_data:
         row = row_data.find_elements(By.TAG_NAME,'td')
