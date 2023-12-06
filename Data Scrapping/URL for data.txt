@@ -1,0 +1,1 @@
+https://stats.espncricinfo.com/ci/engine/stats/index.html?class=2;filter=advanced;orderby=start;orderbyad=reverse;runsmin1=100;runsval1=runs;size=200;spanmax1=25+Nov+2023;spanval1=span;template=results;type=batting;view=innings
