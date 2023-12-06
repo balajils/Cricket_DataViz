@@ -40,7 +40,7 @@ def page_checker(driver):
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_experimental_option("detach",True)
 
-# Takes url from txt file
+# Reads url from txt file
 with open("URL for data.txt") as f: 
     url = f.read()
 
