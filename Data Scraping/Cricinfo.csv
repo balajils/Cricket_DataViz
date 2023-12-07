@@ -3,7 +3,7 @@ SD Hope,WI,109,83,4,7,131.32,2,England,North Sound,03-12-2023
 TM Head,AUS,137,120,15,4,114.16,2,India,Ahmedabad,19-11-2023
 DA Miller,SA,101,116,8,5,87.06,1,Australia,Eden Gardens,16-11-2023
 V Kohli,IND,117,113,9,2,103.53,1,New Zealand,Wankhede,15-11-2023
-SS Iyer,IND,105,70,4,8,150,1,New Zealand,Wankhede,15-11-2023
+SS Iyer,IND,105,70,4,8,150.0,1,New Zealand,Wankhede,15-11-2023
 DJ Mitchell,NZ,134,119,9,7,112.6,2,India,Wankhede,15-11-2023
 SS Iyer,IND,128,94,10,5,136.17,1,Netherlands,Bengaluru,12-11-2023
 KL Rahul,IND,102,64,11,4,159.37,1,Netherlands,Bengaluru,12-11-2023
@@ -15,14 +15,14 @@ KIC Asalanka,SL,108,105,6,5,102.85,1,Bangladesh,Delhi,06-11-2023
 V Kohli,IND,101,121,10,0,83.47,1,South Africa,Eden Gardens,05-11-2023
 R Ravindra,NZ,108,94,15,1,114.89,1,Pakistan,Bengaluru,04-11-2023
 Fakhar Zaman,PAK,126,81,8,11,155.55,2,New Zealand,Bengaluru,04-11-2023
-Q de Kock,SA,114,116,10,3,98.27,1,New Zealand,Pune,01-11-2023
 HE van der Dussen,SA,133,118,9,5,112.71,1,New Zealand,Pune,01-11-2023
+Q de Kock,SA,114,116,10,3,98.27,1,New Zealand,Pune,01-11-2023
 TM Head,AUS,109,67,10,7,162.68,1,New Zealand,Dharamsala,28-10-2023
 R Ravindra,NZ,116,89,9,5,130.33,2,Australia,Dharamsala,28-10-2023
 DA Warner,AUS,104,93,11,3,111.82,1,Netherlands,Delhi,25-10-2023
 GJ Maxwell,AUS,106,44,9,8,240.9,1,Netherlands,Delhi,25-10-2023
 Q de Kock,SA,174,140,15,7,124.28,1,Bangladesh,Wankhede,24-10-2023
-Mahmudullah,BAN,111,111,11,4,100,2,South Africa,Wankhede,24-10-2023
+Mahmudullah,BAN,111,111,11,4,100.0,2,South Africa,Wankhede,24-10-2023
 DJ Mitchell,NZ,130,127,9,5,102.36,1,India,Dharamsala,22-10-2023
 H Klaasen,SA,109,67,12,4,162.68,1,England,Wankhede,21-10-2023
 DA Warner,AUS,163,124,14,9,131.45,1,Pakistan,Bengaluru,20-10-2023
@@ -30,11 +30,11 @@ MR Marsh,AUS,121,108,10,9,112.03,1,Pakistan,Bengaluru,20-10-2023
 V Kohli,IND,103,97,6,4,106.18,2,Bangladesh,Pune,19-10-2023
 Q de Kock,SA,109,106,8,5,102.83,1,Australia,Lucknow,12-10-2023
 RG Sharma,IND,131,84,16,5,155.95,2,Afghanistan,Delhi,11-10-2023
-BKG Mendis,SL,122,77,14,6,158.44,1,Pakistan,Hyderabad,10-10-2023
-S Samarawickrama,SL,108,89,11,2,121.34,1,Pakistan,Hyderabad,10-10-2023
-Abdullah Shafique,PAK,113,103,10,3,109.7,2,Sri Lanka,Hyderabad,10-10-2023
-Mohammad Rizwan,PAK,131,121,8,3,108.26,2,Sri Lanka,Hyderabad,10-10-2023
 DJ Malan,ENG,140,107,16,5,130.84,1,Bangladesh,Dharamsala,10-10-2023
+Mohammad Rizwan,PAK,131,121,8,3,108.26,2,Sri Lanka,Hyderabad,10-10-2023
+Abdullah Shafique,PAK,113,103,10,3,109.7,2,Sri Lanka,Hyderabad,10-10-2023
+S Samarawickrama,SL,108,89,11,2,121.34,1,Pakistan,Hyderabad,10-10-2023
+BKG Mendis,SL,122,77,14,6,158.44,1,Pakistan,Hyderabad,10-10-2023
 Q de Kock,SA,100,84,12,3,119.04,1,Sri Lanka,Delhi,07-10-2023
 HE van der Dussen,SA,108,110,13,2,98.18,1,Sri Lanka,Delhi,07-10-2023
 AK Markram,SA,106,54,14,3,196.29,1,Sri Lanka,Delhi,07-10-2023
@@ -48,8 +48,8 @@ H Klaasen,SA,174,83,13,13,209.63,1,Australia,Centurion,15-09-2023
 Shubman Gill,IND,121,133,8,5,90.97,2,Bangladesh,Colombo (RPS),15-09-2023
 BA Stokes,ENG,182,124,15,9,146.77,1,New Zealand,The Oval,13-09-2023
 AK Markram,SA,102,74,9,4,137.83,1,Australia,Potchefstroom,12-09-2023
-V Kohli,IND,122,94,9,3,129.78,1,Pakistan,Colombo (RPS),10-09-2023
 KL Rahul,IND,111,106,12,2,104.71,1,Pakistan,Colombo (RPS),10-09-2023
+V Kohli,IND,122,94,9,3,129.78,1,Pakistan,Colombo (RPS),10-09-2023
 DA Warner,AUS,106,93,12,3,113.97,1,South Africa,Bloemfontein,09-09-2023
 M Labuschagne,AUS,124,99,19,1,125.25,1,South Africa,Bloemfontein,09-09-2023
 DP Conway,NZ,111,121,13,1,91.73,2,England,Cardiff,08-09-2023
@@ -59,13 +59,13 @@ Mehidy Hasan Miraz,BAN,112,119,7,3,94.11,1,Afghanistan,Lahore,03-09-2023
 Najmul Hossain Shanto,BAN,104,105,9,2,99.04,1,Afghanistan,Lahore,03-09-2023
 Babar Azam,PAK,151,131,14,4,115.26,1,Nepal,Multan,30-08-2023
 Iftikhar Ahmed,PAK,109,71,11,4,153.52,1,Nepal,Multan,30-08-2023
-Rahmanullah Gurbaz,AFG,151,151,14,3,100,1,Pakistan,Hambantota,24-08-2023
-Rahmanullah Gurbaz,AFG,145,125,13,8,116,1,Bangladesh,Chattogram,08-07-2023
+Rahmanullah Gurbaz,AFG,151,151,14,3,100.0,1,Pakistan,Hambantota,24-08-2023
+Rahmanullah Gurbaz,AFG,145,125,13,8,116.0,1,Bangladesh,Chattogram,08-07-2023
 Ibrahim Zadran,AFG,100,119,9,1,84.03,1,Bangladesh,Chattogram,08-07-2023
 P Nissanka,SL,104,113,14,0,92.03,2,West Indies,Harare,07-07-2023
-Asif Khan,UAE,151,145,12,6,104.13,1,U.S.A.,Harare,06-07-2023
-B McMullen,SCOT,106,110,11,3,96.36,1,Netherlands,Bulawayo,06-07-2023
 BFW de Leede,NED,123,92,7,5,133.69,2,Scotland,Bulawayo,06-07-2023
+B McMullen,SCOT,106,110,11,3,96.36,1,Netherlands,Bulawayo,06-07-2023
+Asif Khan,UAE,151,145,12,6,104.13,1,U.S.A.,Harare,06-07-2023
 BA King,WI,100,104,15,0,96.15,2,Oman,Harare,05-07-2023
 Vikramjit Singh,NED,110,109,11,2,100.91,1,Oman,Harare,03-07-2023
 Ayaan Khan,OMA,105,92,11,2,114.13,2,Netherlands,Harare,03-07-2023
@@ -73,26 +73,26 @@ P Nissanka,SL,101,102,14,0,99.01,2,Zimbabwe,Bulawayo,02-07-2023
 SC Williams,ZIM,142,103,14,3,137.86,1,Oman,Bulawayo,29-06-2023
 KH Prajapati,OMA,103,97,12,1,106.18,2,Zimbabwe,Bulawayo,29-06-2023
 PR Stirling,IRE,162,134,15,8,120.89,1,U.A.E.,Bulawayo,27-06-2023
-N Pooran,WI,104,65,9,6,160,1,Netherlands,Harare,26-06-2023
+N Pooran,WI,104,65,9,6,160.0,1,Netherlands,Harare,26-06-2023
 AT Nidamanuru,NED,111,76,11,3,146.05,2,West Indies,Harare,26-06-2023
 SC Williams,ZIM,174,101,21,5,172.27,1,U.S.A.,Harare,26-06-2023
 B McMullen,SCOT,136,121,14,3,112.39,1,Oman,Bulawayo,25-06-2023
-FDM Karunaratne,SL,103,103,8,0,100,1,Ireland,Bulawayo,25-06-2023
+FDM Karunaratne,SL,103,103,8,0,100.0,1,Ireland,Bulawayo,25-06-2023
 RD Berrington,SCOT,127,136,9,3,93.38,1,U.A.E.,Bulawayo,23-06-2023
-SD Hope,WI,132,129,10,3,102.32,1,Nepal,Harare,22-06-2023
 N Pooran,WI,115,94,10,4,122.34,1,Nepal,Harare,22-06-2023
+SD Hope,WI,132,129,10,3,102.32,1,Nepal,Harare,22-06-2023
 C Campher,IRE,120,108,9,4,111.11,1,Scotland,Bulawayo,21-06-2023
 Shayan Jahangir,USA,100,79,10,3,126.58,1,Nepal,Harare,20-06-2023
 Sikandar Raza,ZIM,102,54,6,8,188.88,2,Netherlands,Harare,20-06-2023
 G Singh,USA,101,109,8,2,92.66,2,West Indies,Harare,18-06-2023
 CR Ervine,ZIM,121,128,15,1,94.53,2,Nepal,Harare,18-06-2023
 SC Williams,ZIM,102,70,13,1,145.71,2,Nepal,Harare,18-06-2023
-BA King,WI,112,112,12,4,100,2,U.A.E.,Sharjah,04-06-2023
+BA King,WI,112,112,12,4,100.0,2,U.A.E.,Sharjah,04-06-2023
 HT Tector,IRE,140,113,7,10,123.89,1,Bangladesh,Chelmsford,12-05-2023
 Najmul Hossain Shanto,BAN,117,93,12,3,125.8,2,Ireland,Chelmsford,12-05-2023
 Babar Azam,PAK,107,117,10,0,91.45,1,New Zealand,Karachi,05-05-2023
 DJ Mitchell,NZ,129,119,8,3,108.4,1,Pakistan,Rawalpindi,29-04-2023
-Fakhar Zaman,PAK,180,144,17,6,125,2,New Zealand,Rawalpindi,29-04-2023
+Fakhar Zaman,PAK,180,144,17,6,125.0,2,New Zealand,Rawalpindi,29-04-2023
 DJ Mitchell,NZ,113,115,11,1,98.26,1,Pakistan,Rawalpindi,27-04-2023
 Fakhar Zaman,PAK,117,114,13,1,102.63,2,New Zealand,Rawalpindi,27-04-2023
 Kushal Malla,NEP,108,64,9,10,168.75,1,Oman,Kirtipur,21-04-2023
@@ -112,7 +112,7 @@ SD Hope,WI,128,115,5,7,111.3,1,South Africa,East London,18-03-2023
 T Bavuma,SA,144,118,11,7,122.03,2,West Indies,East London,18-03-2023
 Asif Khan,UAE,101,42,4,11,240.47,1,Nepal,Kirtipur,16-03-2023
 Muhammad Waseem,UAE,119,76,6,12,156.57,2,P.N.G.,Kirtipur,15-03-2023
-Aasif Sheikh,NEP,110,110,12,2,100,1,P.N.G.,Kirtipur,09-03-2023
+Aasif Sheikh,NEP,110,110,12,2,100.0,1,P.N.G.,Kirtipur,09-03-2023
 JJ Roy,ENG,132,124,18,1,106.45,1,Bangladesh,Mirpur,03-03-2023
 DJ Malan,ENG,114,145,8,4,78.62,2,Bangladesh,Mirpur,01-03-2023
 MA Leask,SCOT,107,85,3,9,125.88,1,Nepal,Kirtipur,17-02-2023
@@ -126,11 +126,11 @@ HE van der Dussen,SA,111,117,6,1,94.87,1,England,Bloemfontein,27-01-2023
 JJ Roy,ENG,113,91,11,4,124.17,2,South Africa,Bloemfontein,27-01-2023
 RG Sharma,IND,101,85,9,6,118.82,1,New Zealand,Indore,24-01-2023
 Shubman Gill,IND,112,78,13,5,143.58,1,New Zealand,Indore,24-01-2023
-DP Conway,NZ,138,100,12,8,138,2,India,Indore,24-01-2023
+DP Conway,NZ,138,100,12,8,138.0,2,India,Indore,24-01-2023
+HT Tector,IRE,101,109,8,1,92.66,1,Zimbabwe,Harare,18-01-2023
+A Balbirnie,IRE,121,137,13,3,88.32,1,Zimbabwe,Harare,18-01-2023
 Shubman Gill,IND,208,149,19,9,139.59,1,New Zealand,Hyderabad,18-01-2023
 MG Bracewell,NZ,140,78,12,10,179.48,2,India,Hyderabad,18-01-2023
-A Balbirnie,IRE,121,137,13,3,88.32,1,Zimbabwe,Harare,18-01-2023
-HT Tector,IRE,101,109,8,1,92.66,1,Zimbabwe,Harare,18-01-2023
 Shubman Gill,IND,116,97,14,2,119.58,1,Sri Lanka,Thiruvananthapuram,15-01-2023
 V Kohli,IND,166,110,13,8,150.9,1,Sri Lanka,Thiruvananthapuram,15-01-2023
 Fakhar Zaman,PAK,101,122,10,1,82.78,1,New Zealand,Karachi,13-01-2023
@@ -139,13 +139,13 @@ V Kohli,IND,113,87,12,1,129.88,1,Sri Lanka,Guwahati,10-01-2023
 MD Shanaka,SL,108,88,12,3,122.72,2,India,Guwahati,10-01-2023
 Ishan Kishan,IND,210,131,24,10,160.3,1,Bangladesh,Chattogram,10-12-2022
 V Kohli,IND,113,91,11,2,124.17,1,Bangladesh,Chattogram,10-12-2022
-M van Lingen,NAM,121,111,15,1,109,1,Nepal,Windhoek,07-12-2022
+M van Lingen,NAM,121,111,15,1,109.0,1,Nepal,Windhoek,07-12-2022
 Mehidy Hasan Miraz,BAN,100,83,8,4,120.48,1,India,Mirpur,07-12-2022
 Ibrahim Zadran,AFG,162,138,15,4,117.39,1,Sri Lanka,Pallekele,30-11-2022
 Ibrahim Zadran,AFG,106,120,11,0,88.33,1,Sri Lanka,Pallekele,25-11-2022
 TWM Latham,NZ,145,104,19,5,139.42,2,India,Auckland,25-11-2022
-TM Head,AUS,152,130,16,4,116.92,1,England,Melbourne,22-11-2022
 DA Warner,AUS,106,102,8,2,103.92,1,England,Melbourne,22-11-2022
+TM Head,AUS,152,130,16,4,116.92,1,England,Melbourne,22-11-2022
 DJ Malan,ENG,134,128,12,4,104.68,1,Australia,Adelaide,17-11-2022
 SS Iyer,IND,113,111,15,0,101.8,2,South Africa,Ranchi,09-10-2022
 M van Lingen,NAM,119,107,13,3,111.21,1,P.N.G.,Port Moresby,20-09-2022
@@ -154,11 +154,11 @@ Shubman Gill,IND,130,97,15,1,134.02,1,Zimbabwe,Harare,22-08-2022
 Sikandar Raza,ZIM,115,95,9,3,121.05,2,India,Harare,22-08-2022
 KR Mayers,WI,105,110,12,3,95.45,1,New Zealand,Bridgetown,21-08-2022
 CS MacLeod,SCOT,133,144,13,2,92.36,1,U.S.A.,Aberdeen,17-08-2022
-Fakhar Zaman,PAK,109,109,12,1,100,1,Netherlands,Rotterdam,16-08-2022
+Fakhar Zaman,PAK,109,109,12,1,100.0,1,Netherlands,Rotterdam,16-08-2022
 Aaron Jones,USA,123,87,9,6,141.37,1,Scotland,Aberdeen,13-08-2022
 CS MacLeod,SCOT,117,91,9,5,128.57,2,U.S.A.,Aberdeen,13-08-2022
 Sikandar Raza,ZIM,117,127,8,4,92.12,2,Bangladesh,Harare,07-08-2022
-RW Chakabva,ZIM,102,75,10,2,136,2,Bangladesh,Harare,07-08-2022
+RW Chakabva,ZIM,102,75,10,2,136.0,2,Bangladesh,Harare,07-08-2022
 I Kaia,ZIM,110,122,11,2,90.16,2,Bangladesh,Harare,05-08-2022
 Sikandar Raza,ZIM,135,109,8,6,123.85,2,Bangladesh,Harare,05-08-2022
 MS Chapman,NZ,101,75,6,7,134.66,2,Scotland,Edinburgh,31-07-2022
@@ -194,26 +194,26 @@ Jatinder Singh,OMA,118,116,13,0,101.72,2,P.N.G.,Dubai (DSC),12-04-2022
 RD Berrington,SCOT,114,127,10,2,89.76,1,P.N.G.,Dubai (DSC),09-04-2022
 MJ Guptill,NZ,106,123,11,2,86.17,1,Netherlands,Hamilton,04-04-2022
 WA Young,NZ,120,112,6,4,107.14,1,Netherlands,Hamilton,04-04-2022
-Babar Azam,PAK,105,115,12,0,91.3,2,Australia,Lahore,02-04-2022
 TWM Latham,NZ,140,123,10,5,113.82,1,Netherlands,Hamilton,02-04-2022
+Babar Azam,PAK,105,115,12,0,91.3,2,Australia,Lahore,02-04-2022
 BR McDermott,AUS,104,108,10,4,96.29,1,Pakistan,Lahore,31-03-2022
 Imam-ul-Haq,PAK,106,97,6,3,109.27,2,Australia,Lahore,31-03-2022
 Babar Azam,PAK,114,83,11,1,137.34,2,Australia,Lahore,31-03-2022
 TM Head,AUS,101,72,12,3,140.27,1,Pakistan,Lahore,29-03-2022
 Imam-ul-Haq,PAK,103,96,6,3,107.29,2,Australia,Lahore,29-03-2022
 WA Young,NZ,103,114,8,3,90.35,2,Netherlands,Mount Maunganui,29-03-2022
-DS Airee,NEP,105,140,7,0,75,1,P.N.G.,Kirtipur,26-03-2022
+DS Airee,NEP,105,140,7,0,75.0,1,P.N.G.,Kirtipur,26-03-2022
 RK Paudel,NEP,126,107,7,4,117.75,2,P.N.G.,Kirtipur,25-03-2022
 Chirag Suri,UAE,103,118,10,1,87.28,1,Namibia,Sharjah,12-03-2022
 V Aravind,UAE,115,76,14,2,151.31,1,Namibia,Sharjah,12-03-2022
-Shoaib Khan,OMA,105,75,11,3,140,2,Namibia,Sharjah,11-03-2022
+Shoaib Khan,OMA,105,75,11,3,140.0,2,Namibia,Sharjah,11-03-2022
 MG Erasmus,NAM,121,120,9,3,100.83,1,Oman,ICCA Dubai,06-03-2022
 Rahmanullah Gurbaz,AFG,106,110,7,4,96.36,2,Bangladesh,Chattogram,28-02-2022
 Litton Das,BAN,136,126,16,2,107.93,1,Afghanistan,Chattogram,25-02-2022
 Jatinder Singh,OMA,106,95,14,4,111.57,1,U.A.E.,Al Amerat,05-02-2022
-Chirag Suri,UAE,115,125,12,5,92,2,Oman,Al Amerat,05-02-2022
-Q de Kock,SA,124,130,12,2,95.38,1,India,Cape Town,23-01-2022
+Chirag Suri,UAE,115,125,12,5,92.0,2,Oman,Al Amerat,05-02-2022
 Rahmanullah Gurbaz,AFG,103,127,6,3,81.1,1,Netherlands,Doha,23-01-2022
+Q de Kock,SA,124,130,12,2,95.38,1,India,Cape Town,23-01-2022
 T Bavuma,SA,110,143,8,0,76.92,1,India,Paarl,19-01-2022
 HE van der Dussen,SA,129,96,9,4,134.37,1,India,Paarl,19-01-2022
 MD Shanaka,SL,102,94,7,4,108.51,2,Zimbabwe,Pallekele,18-01-2022
@@ -248,7 +248,7 @@ SD Hope,WI,110,133,12,1,82.7,2,Sri Lanka,North Sound,10-03-2021
 PR Stirling,IRE,118,119,9,6,99.15,2,Afghanistan,Abu Dhabi,26-01-2021
 PR Stirling,IRE,128,132,12,4,96.96,1,Afghanistan,Abu Dhabi,24-01-2021
 Rahmat Shah,AFG,103,109,10,2,94.49,2,Ireland,Abu Dhabi,24-01-2021
-Rahmanullah Gurbaz,AFG,127,127,8,9,100,1,Ireland,Abu Dhabi,21-01-2021
+Rahmanullah Gurbaz,AFG,127,127,8,9,100.0,1,Ireland,Abu Dhabi,21-01-2021
 PR Stirling,IRE,131,148,9,4,88.51,1,U.A.E.,Abu Dhabi,08-01-2021
 CP Rizwan,UAE,109,136,9,1,80.14,2,Ireland,Abu Dhabi,08-01-2021
 Muhammad Usman,UAE,102,107,7,3,95.32,2,Ireland,Abu Dhabi,08-01-2021
@@ -256,31 +256,31 @@ SPD Smith,AUS,104,64,14,2,162.5,1,India,Sydney,29-11-2020
 AJ Finch,AUS,114,124,9,2,91.93,1,India,Sydney,27-11-2020
 SPD Smith,AUS,105,66,11,4,159.09,1,India,Sydney,27-11-2020
 SC Williams,ZIM,118,135,13,1,87.4,1,Pakistan,Rawalpindi,03-11-2020
-Babar Azam,PAK,125,125,13,1,100,2,Zimbabwe,Rawalpindi,03-11-2020
+Babar Azam,PAK,125,125,13,1,100.0,2,Zimbabwe,Rawalpindi,03-11-2020
 BRM Taylor,ZIM,112,117,11,3,95.72,2,Pakistan,Rawalpindi,30-10-2020
 JM Bairstow,ENG,112,126,12,2,88.88,1,Australia,Manchester,16-09-2020
 AT Carey,AUS,106,114,7,2,92.98,2,England,Manchester,16-09-2020
-GJ Maxwell,AUS,108,90,4,7,120,2,England,Manchester,16-09-2020
+GJ Maxwell,AUS,108,90,4,7,120.0,2,England,Manchester,16-09-2020
 SW Billings,ENG,118,110,14,2,107.27,2,Australia,Manchester,11-09-2020
 EJG Morgan,ENG,106,84,15,4,126.19,1,Ireland,Southampton,04-08-2020
-PR Stirling,IRE,142,128,9,6,110.93,2,England,Southampton,04-08-2020
 A Balbirnie,IRE,113,112,12,0,100.89,2,England,Southampton,04-08-2020
-M Labuschagne,AUS,108,108,8,0,100,1,South Africa,Potchefstroom,07-03-2020
+PR Stirling,IRE,142,128,9,6,110.93,2,England,Southampton,04-08-2020
+M Labuschagne,AUS,108,108,8,0,100.0,1,South Africa,Potchefstroom,07-03-2020
 Tamim Iqbal,BAN,128,109,7,6,117.43,1,Zimbabwe,Sylhet,06-03-2020
 Litton Das,BAN,176,143,16,8,123.07,1,Zimbabwe,Sylhet,06-03-2020
 JN Malan,SA,129,139,7,4,92.8,2,Australia,Bloemfontein,04-03-2020
 Tamim Iqbal,BAN,158,136,20,3,116.17,1,Zimbabwe,Sylhet,03-03-2020
-Litton Das,BAN,126,105,13,2,120,1,Zimbabwe,Sylhet,01-03-2020
+Litton Das,BAN,126,105,13,2,120.0,1,Zimbabwe,Sylhet,01-03-2020
 H Klaasen,SA,123,114,7,3,107.89,1,Australia,Paarl,29-02-2020
 WIA Fernando,SL,127,123,10,0,103.25,1,West Indies,Hambantota,26-02-2020
-BKG Mendis,SL,119,119,12,0,100,1,West Indies,Hambantota,26-02-2020
+BKG Mendis,SL,119,119,12,0,100.0,1,West Indies,Hambantota,26-02-2020
 SD Hope,WI,115,140,10,0,82.14,1,Sri Lanka,Colombo (SSC),22-02-2020
 Aqib Ilyas,OMA,105,123,11,1,85.36,1,U.S.A.,Kirtipur,11-02-2020
-Zeeshan Maqsood,OMA,109,109,10,4,100,1,U.S.A.,Kirtipur,11-02-2020
+Zeeshan Maqsood,OMA,109,109,10,4,100.0,1,U.S.A.,Kirtipur,11-02-2020
 KL Rahul,IND,112,113,9,2,99.11,1,New Zealand,Mount Maunganui,11-02-2020
 Aqib Ilyas,OMA,109,108,12,1,100.92,2,Nepal,Kirtipur,09-02-2020
-SS Iyer,IND,103,107,11,1,96.26,1,New Zealand,Hamilton,05-02-2020
 LRPL Taylor,NZ,109,84,10,4,129.76,2,India,Hamilton,05-02-2020
+SS Iyer,IND,103,107,11,1,96.26,1,New Zealand,Hamilton,05-02-2020
 Q de Kock,SA,107,113,11,1,94.69,2,England,Cape Town,04-02-2020
 SPD Smith,AUS,131,132,14,1,99.24,1,India,Bengaluru,19-01-2020
 RG Sharma,IND,119,128,8,6,92.96,2,Australia,Bengaluru,19-01-2020
@@ -298,22 +298,22 @@ Babar Azam,PAK,115,105,8,4,109.52,1,Sri Lanka,Karachi,30-09-2019
 A Vala,PNG,104,114,7,4,91.22,2,Namibia,Lauderhill,23-09-2019
 JP Kotze,NAM,136,109,11,8,124.77,1,U.S.A.,Lauderhill,20-09-2019
 V Kohli,IND,114,99,14,0,115.15,2,West Indies,Port of Spain,14-08-2019
-V Kohli,IND,120,125,14,1,96,1,West Indies,Port of Spain,11-08-2019
+V Kohli,IND,120,125,14,1,96.0,1,West Indies,Port of Spain,11-08-2019
 MDKJ Perera,SL,111,99,17,1,112.12,1,Bangladesh,Colombo (RPS),26-07-2019
 F du Plessis,SA,100,94,7,2,106.38,1,Australia,Manchester,06-07-2019
 DA Warner,AUS,122,117,15,2,104.27,2,South Africa,Manchester,06-07-2019
 AD Mathews,SL,113,128,10,2,88.28,1,India,Leeds,06-07-2019
 KL Rahul,IND,111,118,11,1,94.06,2,Sri Lanka,Leeds,06-07-2019
 RG Sharma,IND,103,94,14,2,109.57,2,Sri Lanka,Leeds,06-07-2019
-Imam-ul-Haq,PAK,100,100,7,0,100,1,Bangladesh,Lord's,05-07-2019
+Imam-ul-Haq,PAK,100,100,7,0,100.0,1,Bangladesh,Lord's,05-07-2019
 JM Bairstow,ENG,106,99,15,1,107.07,1,New Zealand,Chester-le-Street,03-07-2019
 RG Sharma,IND,104,92,7,5,113.04,1,Bangladesh,Birmingham,02-07-2019
 CR Ervine,ZIM,105,117,13,0,89.74,1,Ireland,Bready,01-07-2019
 A Balbirnie,IRE,101,112,9,2,90.17,2,Zimbabwe,Bready,01-07-2019
 WIA Fernando,SL,104,103,9,2,100.97,1,West Indies,Chester-le-Street,01-07-2019
 N Pooran,WI,118,103,11,4,114.56,2,Sri Lanka,Chester-le-Street,01-07-2019
-JM Bairstow,ENG,111,109,10,6,101.83,1,India,Birmingham,30-06-2019
 RG Sharma,IND,102,109,15,0,93.57,2,England,Birmingham,30-06-2019
+JM Bairstow,ENG,111,109,10,6,101.83,1,India,Birmingham,30-06-2019
 Babar Azam,PAK,101,127,11,0,79.52,2,New Zealand,Birmingham,26-06-2019
 AJ Finch,AUS,100,116,11,2,86.2,1,England,Lord's,25-06-2019
 KS Williamson,NZ,148,154,14,1,96.1,1,West Indies,Manchester,22-06-2019
@@ -339,7 +339,7 @@ JJ Roy,ENG,114,89,11,4,128.08,2,Pakistan,Nottingham,17-05-2019
 PR Stirling,IRE,130,141,8,4,92.19,1,Bangladesh,Dublin,15-05-2019
 Imam-ul-Haq,PAK,151,131,16,1,115.26,1,England,Bristol,14-05-2019
 JM Bairstow,ENG,128,93,15,5,137.63,2,Pakistan,Bristol,14-05-2019
-JC Buttler,ENG,110,55,6,9,200,1,Pakistan,Southampton,11-05-2019
+JC Buttler,ENG,110,55,6,9,200.0,1,Pakistan,Southampton,11-05-2019
 Fakhar Zaman,PAK,138,106,12,4,130.18,2,England,Southampton,11-05-2019
 A Balbirnie,IRE,135,124,11,4,108.87,1,West Indies,Dublin (Malahide),11-05-2019
 SW Ambris,WI,148,126,19,1,117.46,2,Ireland,Dublin (Malahide),11-05-2019
@@ -360,8 +360,8 @@ UT Khawaja,AUS,100,106,10,2,94.33,1,India,Delhi,13-03-2019
 Q de Kock,SA,121,108,16,2,112.03,1,Sri Lanka,Durban,10-03-2019
 S Dhawan,IND,143,115,18,3,124.34,1,Australia,Mohali,10-03-2019
 PSP Handscomb,AUS,117,105,8,3,111.42,2,India,Mohali,10-03-2019
-UT Khawaja,AUS,104,113,11,1,92.03,1,India,Ranchi,08-03-2019
 V Kohli,IND,123,95,16,1,129.47,2,Australia,Ranchi,08-03-2019
+UT Khawaja,AUS,104,113,11,1,92.03,1,India,Ranchi,08-03-2019
 V Kohli,IND,116,120,10,0,96.66,1,Australia,Nagpur,05-03-2019
 Najibullah Zadran,AFG,104,98,5,5,106.12,1,Ireland,Dehradun,05-03-2019
 A Balbirnie,IRE,145,136,8,8,106.61,2,Afghanistan,Dehradun,05-03-2019
@@ -378,12 +378,12 @@ MJ Guptill,NZ,118,88,14,4,134.09,2,Bangladesh,Christchurch,16-02-2019
 MJ Guptill,NZ,117,116,8,4,100.86,2,Bangladesh,Napier,13-02-2019
 P Khadka,NEP,115,109,15,1,105.5,2,U.A.E.,ICCA Dubai,28-01-2019
 Imam-ul-Haq,PAK,101,116,8,0,87.06,1,South Africa,Centurion,25-01-2019
-HM Amla,SA,108,120,7,1,90,1,Pakistan,Gqeberha,19-01-2019
+HM Amla,SA,108,120,7,1,90.0,1,Pakistan,Gqeberha,19-01-2019
 SE Marsh,AUS,131,123,11,3,106.5,1,India,Adelaide,15-01-2019
 V Kohli,IND,104,112,5,2,92.85,2,Australia,Adelaide,15-01-2019
 RG Sharma,IND,133,129,10,6,103.1,2,Australia,Sydney,12-01-2019
 LRPL Taylor,NZ,137,131,9,4,104.58,1,Sri Lanka,Nelson,08-01-2019
-HM Nicholls,NZ,124,80,12,3,155,1,Sri Lanka,Nelson,08-01-2019
+HM Nicholls,NZ,124,80,12,3,155.0,1,Sri Lanka,Nelson,08-01-2019
 NLTC Perera,SL,140,74,8,13,189.18,2,New Zealand,Mount Maunganui,05-01-2019
 MJ Guptill,NZ,138,139,11,5,99.28,1,Sri Lanka,Mount Maunganui,03-01-2019
 MDKJ Perera,SL,102,86,13,1,118.6,2,New Zealand,Mount Maunganui,03-01-2019
@@ -392,8 +392,8 @@ SD Hope,WI,146,144,12,3,101.38,2,Bangladesh,Mirpur,11-12-2018
 F du Plessis,SA,125,114,15,2,109.64,1,Australia,Hobart,11-11-2018
 DA Miller,SA,139,108,13,4,128.7,1,Australia,Hobart,11-11-2018
 SE Marsh,AUS,106,102,7,4,103.92,2,South Africa,Hobart,11-11-2018
-RG Sharma,IND,162,137,20,4,118.24,1,West Indies,Brabourne,29-10-2018
 AT Rayudu,IND,100,81,8,4,123.45,1,West Indies,Brabourne,29-10-2018
+RG Sharma,IND,162,137,20,4,118.24,1,West Indies,Brabourne,29-10-2018
 V Kohli,IND,107,119,10,1,89.91,2,West Indies,Pune,27-10-2018
 SC Williams,ZIM,129,143,10,1,90.2,1,Bangladesh,Chattogram,26-10-2018
 Imrul Kayes,BAN,115,112,10,2,102.67,2,Zimbabwe,Chattogram,26-10-2018
@@ -407,9 +407,9 @@ V Kohli,IND,140,107,21,2,130.84,2,West Indies,Guwahati,21-10-2018
 Litton Das,BAN,121,117,12,2,103.41,1,India,Dubai (DSC),28-09-2018
 Mohammad Shahzad,AFG,124,116,11,7,106.89,1,India,Dubai (DSC),25-09-2018
 RG Sharma,IND,111,119,7,4,93.27,2,Pakistan,Dubai (DSC),23-09-2018
-S Dhawan,IND,114,100,16,2,114,2,Pakistan,Dubai (DSC),23-09-2018
+S Dhawan,IND,114,100,16,2,114.0,2,Pakistan,Dubai (DSC),23-09-2018
 S Dhawan,IND,127,120,15,2,105.83,1,Hong Kong,Dubai (DSC),18-09-2018
-Mushfiqur Rahim,BAN,144,150,11,4,96,1,Sri Lanka,Dubai (DSC),15-09-2018
+Mushfiqur Rahim,BAN,144,150,11,4,96.0,1,Sri Lanka,Dubai (DSC),15-09-2018
 RR Hendricks,SA,102,89,8,1,114.6,1,Sri Lanka,Pallekele,05-08-2018
 Tamim Iqbal,BAN,103,124,7,2,83.06,1,West Indies,Basseterre,28-07-2018
 SO Hetmyer,WI,125,93,3,7,134.4,1,Bangladesh,Providence,25-07-2018
@@ -437,16 +437,16 @@ BRM Taylor,ZIM,138,124,20,2,111.29,1,West Indies,Harare,19-03-2018
 A Balbirnie,IRE,105,146,10,0,71.91,1,Scotland,Harare,18-03-2018
 MH Cross,SCOT,114,135,5,4,84.44,1,U.A.E.,Bulawayo,15-03-2018
 PR Stirling,IRE,126,117,15,5,107.69,1,U.A.E.,Harare,12-03-2018
-R Powell,WI,101,100,7,7,101,1,Ireland,Harare,10-03-2018
+R Powell,WI,101,100,7,7,101.0,1,Ireland,Harare,10-03-2018
 JM Bairstow,ENG,104,60,9,6,173.33,2,New Zealand,Christchurch,10-03-2018
 JM Bairstow,ENG,138,106,14,7,130.18,1,New Zealand,Dunedin,07-03-2018
 JE Root,ENG,102,101,6,2,100.99,1,New Zealand,Dunedin,07-03-2018
 LRPL Taylor,NZ,181,147,17,6,123.12,2,England,Dunedin,07-03-2018
 CH Gayle,WI,123,91,7,11,135.16,1,U.A.E.,Harare,06-03-2018
-SO Hetmyer,WI,127,93,14,4,136.55,1,U.A.E.,Harare,06-03-2018
+WTS Porterfield,IRE,111,133,12,0,83.45,2,P.N.G.,Harare,06-03-2018
 Rameez Shahzad,UAE,112,107,9,4,104.67,2,West Indies,Harare,06-03-2018
 TP Ura,PNG,151,142,10,6,106.33,1,Ireland,Harare,06-03-2018
-WTS Porterfield,IRE,111,133,12,0,83.45,2,P.N.G.,Harare,06-03-2018
+SO Hetmyer,WI,127,93,14,4,136.55,1,U.A.E.,Harare,06-03-2018
 CS MacLeod,SCOT,157,146,23,1,107.53,2,Afghanistan,Bulawayo,04-03-2018
 KS Williamson,NZ,112,143,6,2,78.32,2,England,Wellington,03-03-2018
 LRPL Taylor,NZ,113,116,12,0,97.41,2,England,Hamilton,25-02-2018
@@ -474,25 +474,25 @@ RG Sharma,IND,208,153,13,12,135.94,1,Sri Lanka,Mohali,13-12-2017
 AD Mathews,SL,111,132,9,3,84.09,2,India,Mohali,13-12-2017
 PR Stirling,IRE,101,97,11,4,104.12,2,Afghanistan,Sharjah,10-12-2017
 Anshuman Rath,HKG,143,137,9,3,104.37,1,P.N.G.,ICCA Dubai,08-12-2017
-RG Sharma,IND,147,138,18,2,106.52,1,New Zealand,Kanpur,29-10-2017
 V Kohli,IND,113,106,9,1,106.6,1,New Zealand,Kanpur,29-10-2017
+RG Sharma,IND,147,138,18,2,106.52,1,New Zealand,Kanpur,29-10-2017
 V Kohli,IND,121,125,9,2,96.8,1,New Zealand,Wankhede,22-10-2017
 TWM Latham,NZ,103,102,8,2,100.98,2,India,Wankhede,22-10-2017
-Imam-ul-Haq,PAK,100,125,5,2,80,2,Sri Lanka,Abu Dhabi,18-10-2017
+Imam-ul-Haq,PAK,100,125,5,2,80.0,2,Sri Lanka,Abu Dhabi,18-10-2017
 AB de Villiers,SA,176,104,15,7,169.23,1,Bangladesh,Paarl,18-10-2017
 Babar Azam,PAK,101,133,6,0,75.93,1,Sri Lanka,Abu Dhabi,16-10-2017
 WU Tharanga,SL,112,144,14,0,77.77,2,Pakistan,Abu Dhabi,16-10-2017
-Mushfiqur Rahim,BAN,110,116,11,2,94.82,1,South Africa,Kimberley,15-10-2017
-Q de Kock,SA,168,145,21,2,115.86,2,Bangladesh,Kimberley,15-10-2017
 HM Amla,SA,110,112,8,0,98.21,2,Bangladesh,Kimberley,15-10-2017
+Q de Kock,SA,168,145,21,2,115.86,2,Bangladesh,Kimberley,15-10-2017
+Mushfiqur Rahim,BAN,110,116,11,2,94.82,1,South Africa,Kimberley,15-10-2017
 Babar Azam,PAK,103,131,5,0,78.62,1,Sri Lanka,Dubai (DSC),13-10-2017
 CS MacLeod,SCOT,154,163,15,3,94.47,1,P.N.G.,Port Moresby,06-10-2017
 RG Sharma,IND,125,109,11,5,114.67,2,Australia,Nagpur,01-10-2017
 JM Bairstow,ENG,141,114,17,0,123.68,2,West Indies,Southampton,29-09-2017
 DA Warner,AUS,124,119,12,4,104.2,1,India,Bengaluru,28-09-2017
 E Lewis,WI,176,130,17,7,135.38,1,England,The Oval,27-09-2017
-MM Ali,ENG,102,57,7,8,178.94,1,West Indies,Bristol,24-09-2017
 AJ Finch,AUS,124,125,12,5,99.2,1,India,Indore,24-09-2017
+MM Ali,ENG,102,57,7,8,178.94,1,West Indies,Bristol,24-09-2017
 JM Bairstow,ENG,100,97,11,0,103.09,2,West Indies,Manchester,19-09-2017
 V Kohli,IND,110,116,9,0,94.82,2,Sri Lanka,Colombo (RPS),03-09-2017
 RG Sharma,IND,104,88,11,3,118.18,1,Sri Lanka,Colombo (RPS),31-08-2017
@@ -507,8 +507,8 @@ MD Gunathilaka,SL,116,111,15,1,104.5,2,Zimbabwe,Hambantota,06-07-2017
 SF Mire,ZIM,112,96,14,0,116.66,2,Sri Lanka,Galle,30-06-2017
 AM Rahane,IND,103,104,10,2,99.03,1,West Indies,Port of Spain,25-06-2017
 Fakhar Zaman,PAK,114,106,12,3,107.54,1,India,The Oval,18-06-2017
-KJ Coetzer,SCOT,109,101,13,2,107.92,1,Zimbabwe,Edinburgh,15-06-2017
 RG Sharma,IND,123,129,15,1,95.34,2,Bangladesh,Birmingham,15-06-2017
+KJ Coetzer,SCOT,109,101,13,2,107.92,1,Zimbabwe,Edinburgh,15-06-2017
 BA Stokes,ENG,102,109,13,2,93.57,2,Australia,Birmingham,10-06-2017
 Shakib Al Hasan,BAN,114,115,11,1,99.13,2,New Zealand,Cardiff,09-06-2017
 Mahmudullah,BAN,102,107,8,2,95.32,2,New Zealand,Cardiff,09-06-2017
@@ -538,8 +538,8 @@ LRPL Taylor,NZ,102,110,8,0,92.72,1,South Africa,Christchurch,22-02-2017
 Q de Kock,SA,109,87,16,0,125.28,1,Sri Lanka,Centurion,10-02-2017
 HM Amla,SA,154,134,15,5,114.92,1,Sri Lanka,Centurion,10-02-2017
 DAS Gunaratne,SL,114,117,14,2,97.43,2,South Africa,Centurion,10-02-2017
-F du Plessis,SA,185,141,16,3,131.2,1,Sri Lanka,Cape Town,07-02-2017
 WU Tharanga,SL,119,90,11,7,132.22,2,South Africa,Cape Town,07-02-2017
+F du Plessis,SA,185,141,16,3,131.2,1,Sri Lanka,Cape Town,07-02-2017
 LRPL Taylor,NZ,107,101,13,0,105.94,1,Australia,Hamilton,05-02-2017
 F du Plessis,SA,105,120,7,1,87.5,1,Sri Lanka,Durban,01-02-2017
 DA Miller,SA,117,98,3,6,119.38,1,Sri Lanka,Durban,01-02-2017
@@ -554,7 +554,7 @@ EJG Morgan,ENG,102,81,6,5,125.92,2,India,Cuttack,19-01-2017
 SPD Smith,AUS,108,104,11,1,103.84,2,Pakistan,Perth,19-01-2017
 V Kohli,IND,122,105,8,5,116.19,2,England,Pune,15-01-2017
 KM Jadhav,IND,120,76,12,4,157.89,2,England,Pune,15-01-2017
-MS Wade,AUS,100,100,7,2,100,1,Pakistan,Brisbane,13-01-2017
+MS Wade,AUS,100,100,7,2,100.0,1,Pakistan,Brisbane,13-01-2017
 NT Broom,NZ,109,107,8,3,101.86,1,Bangladesh,Nelson,29-12-2016
 TWM Latham,NZ,137,121,7,4,113.22,1,Bangladesh,Christchurch,26-12-2016
 DA Warner,AUS,156,128,13,4,121.87,1,New Zealand,Melbourne,09-12-2016
@@ -567,16 +567,16 @@ V Kohli,IND,154,134,16,1,114.92,2,New Zealand,Mohali,23-10-2016
 KS Williamson,NZ,118,128,14,1,92.18,1,India,Delhi,20-10-2016
 RR Rossouw,SA,122,118,14,2,103.38,1,Australia,Cape Town,12-10-2016
 DA Warner,AUS,173,136,24,0,127.2,2,South Africa,Cape Town,12-10-2016
-BA Stokes,ENG,101,100,8,4,101,1,Bangladesh,Mirpur,07-10-2016
+BA Stokes,ENG,101,100,8,4,101.0,1,Bangladesh,Mirpur,07-10-2016
 Imrul Kayes,BAN,112,119,11,2,94.11,2,England,Mirpur,07-10-2016
-DA Warner,AUS,117,107,13,2,109.34,1,South Africa,Durban,05-10-2016
-SPD Smith,AUS,108,107,9,1,100.93,1,South Africa,Durban,05-10-2016
-DA Miller,SA,118,79,10,6,149.36,2,Australia,Durban,05-10-2016
-Azhar Ali,PAK,101,109,8,1,92.66,1,West Indies,Abu Dhabi,05-10-2016
 Babar Azam,PAK,117,106,8,1,110.37,1,West Indies,Abu Dhabi,05-10-2016
+Azhar Ali,PAK,101,109,8,1,92.66,1,West Indies,Abu Dhabi,05-10-2016
+DA Miller,SA,118,79,10,6,149.36,2,Australia,Durban,05-10-2016
+SPD Smith,AUS,108,107,9,1,100.93,1,South Africa,Durban,05-10-2016
+DA Warner,AUS,117,107,13,2,109.34,1,South Africa,Durban,05-10-2016
 Babar Azam,PAK,123,126,9,1,97.61,1,West Indies,Sharjah,02-10-2016
 F du Plessis,SA,111,93,13,0,119.35,1,Australia,Johannesburg,02-10-2016
-Tamim Iqbal,BAN,118,118,11,2,100,1,Afghanistan,Mirpur,01-10-2016
+Tamim Iqbal,BAN,118,118,11,2,100.0,1,Afghanistan,Mirpur,01-10-2016
 Q de Kock,SA,178,113,16,11,157.52,2,Australia,Centurion,30-09-2016
 Babar Azam,PAK,120,131,8,3,91.6,1,West Indies,Sharjah,30-09-2016
 T Bavuma,SA,113,123,13,1,91.86,1,Ireland,Benoni,25-09-2016
@@ -587,8 +587,8 @@ LD Chandimal,SL,102,130,7,0,78.46,1,Australia,Dambulla,28-08-2016
 Sarfaraz Ahmed,PAK,105,130,6,0,80.76,1,England,Lord's,27-08-2016
 Sharjeel Khan,PAK,152,86,16,9,176.74,1,Ireland,Dublin (Malahide),18-08-2016
 CS MacLeod,SCOT,103,122,6,3,84.42,2,U.A.E.,Edinburgh,16-08-2016
-KJ Coetzer,SCOT,127,121,14,1,104.95,1,U.A.E.,Edinburgh,14-08-2016
 PL Mommsen,SCOT,111,101,9,0,109.9,1,U.A.E.,Edinburgh,14-08-2016
+KJ Coetzer,SCOT,127,121,14,1,104.95,1,U.A.E.,Edinburgh,14-08-2016
 EC Joyce,IRE,160,148,19,3,108.1,1,Afghanistan,Belfast,19-07-2016
 EC Joyce,IRE,105,135,8,1,77.77,2,Afghanistan,Belfast,14-07-2016
 Rahmat Shah,AFG,100,123,8,1,81.3,1,Scotland,Edinburgh,04-07-2016
@@ -602,8 +602,8 @@ LD Chandimal,SL,100,107,6,0,93.45,1,Ireland,Dublin (Malahide),16-06-2016
 HM Amla,SA,110,99,13,0,111.11,1,West Indies,Basseterre,15-06-2016
 DA Warner,AUS,109,120,11,2,90.83,1,South Africa,Basseterre,11-06-2016
 KL Rahul,IND,100,115,7,1,86.95,2,Zimbabwe,Harare,11-06-2016
-AD Hales,ENG,112,128,14,0,87.5,1,South Africa,Cape Town,14-02-2016
 AB de Villiers,SA,101,97,11,1,104.12,2,England,Cape Town,14-02-2016
+AD Hales,ENG,112,128,14,0,87.5,1,South Africa,Cape Town,14-02-2016
 JE Root,ENG,109,124,10,1,87.9,1,South Africa,Johannesburg,12-02-2016
 JE Root,ENG,125,113,10,5,110.61,1,South Africa,Centurion,09-02-2016
 Q de Kock,SA,135,117,16,4,115.38,2,England,Centurion,09-02-2016
@@ -613,10 +613,10 @@ Q de Kock,SA,138,96,12,6,143.75,2,England,Bloemfontein,03-02-2016
 DA Warner,AUS,122,113,9,3,107.96,1,India,Sydney,23-01-2016
 MR Marsh,AUS,102,84,9,2,121.42,1,India,Sydney,23-01-2016
 MK Pandey,IND,104,81,8,1,128.39,2,Australia,Sydney,23-01-2016
-AJ Finch,AUS,107,107,9,2,100,1,India,Canberra,20-01-2016
+AJ Finch,AUS,107,107,9,2,100.0,1,India,Canberra,20-01-2016
 S Dhawan,IND,126,113,14,2,111.5,2,Australia,Canberra,20-01-2016
 V Kohli,IND,106,92,11,1,115.21,2,Australia,Canberra,20-01-2016
-V Kohli,IND,117,117,7,2,100,1,Australia,Melbourne,17-01-2016
+V Kohli,IND,117,117,7,2,100.0,1,Australia,Melbourne,17-01-2016
 RG Sharma,IND,124,127,11,3,97.63,1,Australia,Brisbane,15-01-2016
 RG Sharma,IND,171,163,13,7,104.9,1,Australia,Perth,12-01-2016
 SPD Smith,AUS,149,135,11,2,110.37,2,India,Perth,12-01-2016
@@ -635,8 +635,8 @@ Q de Kock,SA,109,87,17,1,125.28,1,India,Wankhede,25-10-2015
 F du Plessis,SA,133,115,9,6,115.65,1,India,Wankhede,25-10-2015
 AB de Villiers,SA,119,61,3,11,195.08,1,India,Wankhede,25-10-2015
 SC Williams,ZIM,102,124,3,4,82.25,2,Afghanistan,Bulawayo,24-10-2015
-V Kohli,IND,138,140,6,5,98.57,1,South Africa,Chennai,22-10-2015
 AB de Villiers,SA,112,107,10,2,104.67,2,India,Chennai,22-10-2015
+V Kohli,IND,138,140,6,5,98.57,1,South Africa,Chennai,22-10-2015
 Q de Kock,SA,103,118,11,1,87.28,1,India,Rajkot,18-10-2015
 Mohammad Nabi,AFG,116,121,3,6,95.86,1,Zimbabwe,Bulawayo,18-10-2015
 CR Ervine,ZIM,101,122,9,2,82.78,2,Ireland,Harare,11-10-2015
@@ -653,10 +653,10 @@ CR Ervine,ZIM,130,108,11,5,120.37,2,New Zealand,Harare,02-08-2015
 MDKJ Perera,SL,116,109,9,4,106.42,1,Pakistan,Hambantota,26-07-2015
 KM Jadhav,IND,105,87,12,1,120.68,1,Zimbabwe,Harare,14-07-2015
 Mohammad Hafeez,PAK,103,95,10,4,108.42,2,Sri Lanka,Dambulla,11-07-2015
-AT Rayudu,IND,124,133,12,1,93.23,1,Zimbabwe,Harare,10-07-2015
 E Chigumbura,ZIM,104,101,8,1,102.97,2,India,Harare,10-07-2015
-JE Root,ENG,106,97,13,0,109.27,2,New Zealand,Nottingham,17-06-2015
+AT Rayudu,IND,124,133,12,1,93.23,1,Zimbabwe,Harare,10-07-2015
 EJG Morgan,ENG,113,82,12,5,137.8,2,New Zealand,Nottingham,17-06-2015
+JE Root,ENG,106,97,13,0,109.27,2,New Zealand,Nottingham,17-06-2015
 KS Williamson,NZ,118,113,12,1,104.42,2,England,Southampton,14-06-2015
 LRPL Taylor,NZ,110,123,12,0,89.43,2,England,Southampton,14-06-2015
 LRPL Taylor,NZ,119,96,10,4,123.95,1,England,The Oval,12-06-2015
@@ -668,9 +668,9 @@ Shoaib Malik,PAK,112,76,12,2,147.36,1,Zimbabwe,Lahore,26-05-2015
 E Chigumbura,ZIM,117,95,10,4,123.15,2,Pakistan,Lahore,26-05-2015
 Azhar Ali,PAK,101,112,10,0,90.17,1,Bangladesh,Mirpur,22-04-2015
 Soumya Sarkar,BAN,127,110,13,6,115.45,2,Pakistan,Mirpur,22-04-2015
-Tamim Iqbal,BAN,116,116,17,1,100,2,Pakistan,Mirpur,19-04-2015
-Tamim Iqbal,BAN,132,135,15,3,97.77,1,Pakistan,Mirpur,17-04-2015
+Tamim Iqbal,BAN,116,116,17,1,100.0,2,Pakistan,Mirpur,19-04-2015
 Mushfiqur Rahim,BAN,106,77,13,2,137.66,1,Pakistan,Mirpur,17-04-2015
+Tamim Iqbal,BAN,132,135,15,3,97.77,1,Pakistan,Mirpur,17-04-2015
 SPD Smith,AUS,105,93,11,2,112.9,1,India,Sydney,26-03-2015
 MJ Guptill,NZ,237,163,24,11,145.39,1,West Indies,Wellington,21-03-2015
 RG Sharma,IND,137,126,14,3,108.73,1,Bangladesh,Melbourne,19-03-2015
@@ -679,19 +679,19 @@ Sarfaraz Ahmed,PAK,101,124,6,0,81.45,2,Ireland,Adelaide,15-03-2015
 BRM Taylor,ZIM,138,110,15,5,125.45,1,India,Auckland,14-03-2015
 SK Raina,IND,110,104,9,4,105.76,2,Zimbabwe,Auckland,14-03-2015
 Mahmudullah,BAN,128,123,12,3,104.06,1,New Zealand,Hamilton,13-03-2015
-MJ Guptill,NZ,105,100,11,2,105,2,Bangladesh,Hamilton,13-03-2015
+MJ Guptill,NZ,105,100,11,2,105.0,2,Bangladesh,Hamilton,13-03-2015
 TM Dilshan,SL,104,99,10,1,105.05,1,Scotland,Hobart,11-03-2015
 KC Sangakkara,SL,124,95,13,4,130.52,1,Scotland,Hobart,11-03-2015
 S Dhawan,IND,100,85,11,5,117.64,2,Ireland,Hamilton,10-03-2015
 Mahmudullah,BAN,103,138,7,2,74.63,1,England,Adelaide,09-03-2015
-GJ Maxwell,AUS,102,53,10,4,192.45,1,Sri Lanka,Sydney,08-03-2015
 KC Sangakkara,SL,104,107,11,0,97.19,2,Australia,Sydney,08-03-2015
+GJ Maxwell,AUS,102,53,10,4,192.45,1,Sri Lanka,Sydney,08-03-2015
 EC Joyce,IRE,112,103,9,3,108.73,1,Zimbabwe,Hobart,07-03-2015
 BRM Taylor,ZIM,121,91,11,4,132.96,2,Ireland,Hobart,07-03-2015
 KJ Coetzer,SCOT,156,134,17,4,116.41,1,Bangladesh,Nelson,05-03-2015
 DA Warner,AUS,178,133,19,5,133.83,1,Afghanistan,Perth,04-03-2015
 HM Amla,SA,159,128,16,4,124.21,1,Ireland,Canberra,03-03-2015
-F du Plessis,SA,109,109,10,1,100,1,Ireland,Canberra,03-03-2015
+F du Plessis,SA,109,109,10,1,100.0,1,Ireland,Canberra,03-03-2015
 JE Root,ENG,121,108,14,2,112.03,1,Sri Lanka,Wellington,01-03-2015
 HDRL Thirimanne,SL,139,143,13,2,97.2,2,England,Wellington,01-03-2015
 KC Sangakkara,SL,117,86,11,2,136.04,2,England,Wellington,01-03-2015
@@ -699,15 +699,15 @@ AB de Villiers,SA,162,66,17,8,245.45,1,West Indies,Sydney,27-02-2015
 TM Dilshan,SL,161,146,22,0,110.27,1,Bangladesh,Melbourne,26-02-2015
 KC Sangakkara,SL,105,76,13,1,138.15,1,Bangladesh,Melbourne,26-02-2015
 Shaiman Anwar,UAE,106,83,10,1,127.71,1,Ireland,Brisbane,25-02-2015
-CH Gayle,WI,215,147,10,16,146.25,1,Zimbabwe,Canberra,24-02-2015
 MN Samuels,WI,133,156,11,3,85.25,1,Zimbabwe,Canberra,24-02-2015
+CH Gayle,WI,215,147,10,16,146.25,1,Zimbabwe,Canberra,24-02-2015
 MM Ali,ENG,128,107,12,5,119.62,1,Scotland,Christchurch,23-02-2015
 S Dhawan,IND,137,146,16,2,93.83,1,South Africa,Melbourne,22-02-2015
 DPMD Jayawardene,SL,100,120,8,1,83.33,2,Afghanistan,Dunedin,22-02-2015
 LMP Simmons,WI,102,84,9,5,121.42,1,Ireland,Nelson,16-02-2015
 V Kohli,IND,107,126,8,0,84.92,1,Pakistan,Adelaide,15-02-2015
-DA Miller,SA,138,92,7,9,150,1,Zimbabwe,Hamilton,15-02-2015
-JP Duminy,SA,115,100,9,3,115,1,Zimbabwe,Hamilton,15-02-2015
+DA Miller,SA,138,92,7,9,150.0,1,Zimbabwe,Hamilton,15-02-2015
+JP Duminy,SA,115,100,9,3,115.0,1,Zimbabwe,Hamilton,15-02-2015
 AJ Finch,AUS,135,128,12,3,105.46,1,England,Melbourne,14-02-2015
 KS Williamson,NZ,112,88,14,1,127.27,1,Pakistan,Napier,03-02-2015
 LRPL Taylor,NZ,102,70,13,2,145.71,1,Pakistan,Napier,03-02-2015
@@ -716,9 +716,9 @@ HM Amla,SA,133,105,11,6,126.66,1,West Indies,Centurion,28-01-2015
 RR Rossouw,SA,132,98,9,8,134.69,1,West Indies,Centurion,28-01-2015
 DA Miller,SA,130,133,11,3,97.74,1,West Indies,Gqeberha,25-01-2015
 IR Bell,ENG,141,125,15,1,112.8,1,Australia,Hobart,23-01-2015
-SPD Smith,AUS,102,95,6,1,107.36,2,England,Hobart,23-01-2015
-GD Elliott,NZ,104,96,7,2,108.33,1,Sri Lanka,Dunedin,23-01-2015
 L Ronchi,NZ,170,99,14,9,171.71,1,Sri Lanka,Dunedin,23-01-2015
+GD Elliott,NZ,104,96,7,2,108.33,1,Sri Lanka,Dunedin,23-01-2015
+SPD Smith,AUS,102,95,6,1,107.36,2,England,Hobart,23-01-2015
 TM Dilshan,SL,116,106,17,1,109.43,2,New Zealand,Dunedin,23-01-2015
 KS Williamson,NZ,103,107,6,1,96.26,2,Sri Lanka,Nelson,20-01-2015
 HM Amla,SA,153,142,14,0,107.74,1,West Indies,Johannesburg,18-01-2015
@@ -734,7 +734,7 @@ KS Williamson,NZ,123,105,12,0,117.14,1,Pakistan,Abu Dhabi,17-12-2014
 Younis Khan,PAK,103,117,4,2,88.03,2,New Zealand,Abu Dhabi,17-12-2014
 TM Dilshan,SL,101,124,9,1,81.45,1,England,Colombo (RPS),16-12-2014
 Ahmed Shehzad,PAK,113,120,12,2,94.16,1,New Zealand,Sharjah,14-12-2014
-KC Sangakkara,SL,112,112,12,2,100,1,England,Pallekele,13-12-2014
+KC Sangakkara,SL,112,112,12,2,100.0,1,England,Pallekele,13-12-2014
 JE Root,ENG,104,117,7,1,88.88,2,Sri Lanka,Pallekele,10-12-2014
 LRPL Taylor,NZ,105,135,9,1,77.77,1,Pakistan,Dubai (DSC),08-12-2014
 Nawroz Mangal,AFG,129,123,8,4,104.87,1,U.A.E.,ICCA Dubai,30-11-2014
@@ -751,25 +751,25 @@ RG Sharma,IND,264,173,33,9,152.6,1,Sri Lanka,Eden Gardens,13-11-2014
 DPMD Jayawardene,SL,118,124,12,1,95.16,1,India,Hyderabad,09-11-2014
 L Siaka,PNG,109,114,9,2,95.61,2,Hong Kong,Townsville,09-11-2014
 AT Rayudu,IND,121,118,10,4,102.54,2,Sri Lanka,Ahmedabad,06-11-2014
-AM Rahane,IND,111,108,13,2,102.77,1,Sri Lanka,Cuttack,02-11-2014
 S Dhawan,IND,113,107,14,3,105.6,1,Sri Lanka,Cuttack,02-11-2014
+AM Rahane,IND,111,108,13,2,102.77,1,Sri Lanka,Cuttack,02-11-2014
 HM Amla,SA,119,135,15,0,88.14,1,New Zealand,Mount Maunganui,24-10-2014
-V Kohli,IND,127,114,13,3,111.4,1,West Indies,Dharamsala,17-10-2014
 MN Samuels,WI,112,106,9,6,105.66,2,India,Dharamsala,17-10-2014
+V Kohli,IND,127,114,13,3,111.4,1,West Indies,Dharamsala,17-10-2014
 MN Samuels,WI,126,116,11,4,108.62,1,India,Kochi,08-10-2014
 SPD Smith,AUS,101,118,6,2,85.59,1,Pakistan,Sharjah,07-10-2014
 CS MacLeod,SCOT,116,141,15,0,82.26,2,Ireland,Dublin (Malahide),12-09-2014
 RD Berrington,SCOT,101,126,8,1,80.15,1,Ireland,Dublin (Malahide),10-09-2014
 JE Root,ENG,113,108,10,3,104.62,1,India,Leeds,05-09-2014
 F du Plessis,SA,121,140,5,4,86.42,1,Zimbabwe,Harare,04-09-2014
-AM Rahane,IND,106,100,10,4,106,2,England,Birmingham,02-09-2014
+AM Rahane,IND,106,100,10,4,106.0,2,England,Birmingham,02-09-2014
 F du Plessis,SA,126,109,8,6,115.59,2,Australia,Harare,02-09-2014
 SK Raina,IND,100,75,12,3,133.33,1,England,Cardiff,27-08-2014
 AJ Finch,AUS,102,116,9,1,87.93,1,South Africa,Harare,27-08-2014
 F du Plessis,SA,106,98,11,1,108.16,2,Australia,Harare,27-08-2014
 AB de Villiers,SA,136,106,11,2,128.3,2,Australia,Harare,27-08-2014
-DM Bravo,WI,124,127,7,8,97.63,1,Bangladesh,Basseterre,25-08-2014
 D Ramdin,WI,169,121,8,11,139.66,1,Bangladesh,Basseterre,25-08-2014
+DM Bravo,WI,124,127,7,8,97.63,1,Bangladesh,Basseterre,25-08-2014
 Anamul Haque,BAN,109,138,11,1,78.98,1,West Indies,St George's,20-08-2014
 HM Amla,SA,122,132,6,3,92.42,1,Zimbabwe,Bulawayo,17-08-2014
 Usman Ghani,AFG,118,143,12,1,82.51,1,Zimbabwe,Bulawayo,20-07-2014
@@ -784,10 +784,10 @@ Fawad Alam,PAK,114,134,8,3,85.07,1,Sri Lanka,Mirpur,08-03-2014
 HDRL Thirimanne,SL,101,108,13,0,93.51,2,Pakistan,Mirpur,08-03-2014
 JE Root,ENG,107,122,7,0,87.7,1,West Indies,North Sound,05-03-2014
 D Ramdin,WI,128,109,12,5,117.43,2,England,North Sound,05-03-2014
-Anamul Haque,BAN,100,132,6,4,75.75,1,Pakistan,Mirpur,04-03-2014
 Ahmed Shehzad,PAK,103,123,12,1,83.73,2,Bangladesh,Mirpur,04-03-2014
-MJ Lumb,ENG,106,117,7,2,90.59,2,West Indies,North Sound,28-02-2014
+Anamul Haque,BAN,100,132,6,4,75.75,1,Pakistan,Mirpur,04-03-2014
 KC Sangakkara,SL,103,84,12,1,122.61,2,India,Fatullah,28-02-2014
+MJ Lumb,ENG,106,117,7,2,90.59,2,West Indies,North Sound,28-02-2014
 Umar Akmal,PAK,102,89,7,3,114.6,1,Afghanistan,Fatullah,27-02-2014
 Mushfiqur Rahim,BAN,117,113,7,2,103.53,1,India,Fatullah,26-02-2014
 V Kohli,IND,136,122,16,2,111.47,2,Bangladesh,Fatullah,26-02-2014
@@ -818,27 +818,27 @@ AB de Villiers,SA,109,101,6,5,107.92,1,India,Centurion,11-12-2013
 Q de Kock,SA,106,118,9,0,89.83,1,India,Durban,08-12-2013
 HM Amla,SA,100,117,8,0,85.47,1,India,Durban,08-12-2013
 Q de Kock,SA,135,121,18,3,111.57,1,India,Johannesburg,05-12-2013
-Ahmed Shehzad,PAK,102,112,8,2,91.07,1,South Africa,Gqeberha,27-11-2013
 S Dhawan,IND,119,95,20,0,125.26,2,West Indies,Kanpur,27-11-2013
+Ahmed Shehzad,PAK,102,112,8,2,91.07,1,South Africa,Gqeberha,27-11-2013
 AB de Villiers,SA,115,102,10,3,112.74,1,Pakistan,Sharjah,11-11-2013
 Q de Kock,SA,112,135,9,1,82.96,1,Pakistan,Abu Dhabi,08-11-2013
 LRPL Taylor,NZ,107,93,9,3,115.05,1,Bangladesh,Fatullah,03-11-2013
 RG Sharma,IND,209,158,12,16,132.27,1,Australia,Bengaluru,02-11-2013
 JP Faulkner,AUS,116,73,11,6,158.9,2,India,Bengaluru,02-11-2013
-SR Watson,AUS,102,94,13,3,108.51,1,India,Nagpur,30-10-2013
-GJ Bailey,AUS,156,114,13,6,136.84,1,India,Nagpur,30-10-2013
-S Dhawan,IND,100,102,11,0,98.03,2,Australia,Nagpur,30-10-2013
 V Kohli,IND,115,66,18,1,174.24,2,Australia,Nagpur,30-10-2013
+S Dhawan,IND,100,102,11,0,98.03,2,Australia,Nagpur,30-10-2013
+GJ Bailey,AUS,156,114,13,6,136.84,1,India,Nagpur,30-10-2013
+SR Watson,AUS,102,94,13,3,108.51,1,India,Nagpur,30-10-2013
 MS Dhoni,IND,139,121,12,5,114.87,1,Australia,Mohali,19-10-2013
 RG Sharma,IND,141,123,17,4,114.63,2,Australia,Jaipur,16-10-2013
 V Kohli,IND,100,52,8,7,192.3,2,Australia,Jaipur,16-10-2013
 SR Watson,AUS,143,107,12,6,133.64,1,England,Southampton,16-09-2013
 MJ Clarke,AUS,105,102,14,0,102.94,1,England,Manchester,08-09-2013
 AJ Finch,AUS,148,114,16,7,129.82,1,Scotland,Edinburgh,03-09-2013
-SE Marsh,AUS,151,151,16,5,100,1,Scotland,Edinburgh,03-09-2013
+RS Bopara,ENG,101,75,10,5,134.66,2,Ireland,Dublin (Malahide),03-09-2013
 WTS Porterfield,IRE,112,142,14,1,78.87,1,England,Dublin (Malahide),03-09-2013
 EJG Morgan,ENG,124,106,8,4,116.98,2,Ireland,Dublin (Malahide),03-09-2013
-RS Bopara,ENG,101,75,10,5,134.66,2,Ireland,Dublin (Malahide),03-09-2013
+SE Marsh,AUS,151,151,16,5,100.0,1,Scotland,Edinburgh,03-09-2013
 Mohammad Hafeez,PAK,136,130,9,5,104.61,1,Zimbabwe,Harare,29-08-2013
 TM Dilshan,SL,115,130,16,0,88.46,2,South Africa,Pallekele,28-07-2013
 S Dhawan,IND,116,127,11,2,91.33,1,Zimbabwe,Harare,26-07-2013
@@ -849,7 +849,7 @@ V Kohli,IND,102,83,13,2,122.89,1,West Indies,Port of Spain,05-07-2013
 WU Tharanga,SL,174,159,19,3,109.43,1,India,Kingston,02-07-2013
 DPMD Jayawardene,SL,107,112,9,2,95.53,1,India,Kingston,02-07-2013
 MW Machan,SCOT,114,111,9,3,102.7,1,Kenya,Aberdeen,30-06-2013
-CH Gayle,WI,109,100,9,7,109,2,Sri Lanka,Kingston,28-06-2013
+CH Gayle,WI,109,100,9,7,109.0,2,Sri Lanka,Kingston,28-06-2013
 KC Sangakkara,SL,134,135,12,0,99.25,2,England,The Oval,13-06-2013
 S Dhawan,IND,102,107,10,1,95.32,2,West Indies,The Oval,11-06-2013
 S Dhawan,IND,114,94,12,1,121.27,1,South Africa,Cardiff,06-06-2013
@@ -909,7 +909,7 @@ Nasir Jamshed,PAK,112,104,10,1,107.69,1,India,Mirpur,18-03-2012
 V Kohli,IND,183,148,22,1,123.64,2,Pakistan,Mirpur,18-03-2012
 SR Tendulkar,IND,114,147,12,1,77.55,1,Bangladesh,Mirpur,16-03-2012
 G Gambhir,IND,100,118,7,0,84.74,1,Sri Lanka,Mirpur,13-03-2012
-V Kohli,IND,108,120,7,0,90,1,Sri Lanka,Mirpur,13-03-2012
+V Kohli,IND,108,120,7,0,90.0,1,Sri Lanka,Mirpur,13-03-2012
 DA Warner,AUS,100,140,4,1,71.42,1,Sri Lanka,Adelaide,06-03-2012
 MJ Clarke,AUS,117,91,5,4,128.57,1,Sri Lanka,Adelaide,06-03-2012
 TM Dilshan,SL,106,119,10,0,89.07,2,Australia,Adelaide,06-03-2012
@@ -917,7 +917,7 @@ DA Warner,AUS,163,157,13,2,103.82,1,Sri Lanka,Brisbane,04-03-2012
 TM Dilshan,SL,160,165,11,3,96.96,1,India,Hobart,28-02-2012
 KC Sangakkara,SL,105,87,8,2,120.68,1,India,Hobart,28-02-2012
 V Kohli,IND,133,86,16,2,154.65,2,Sri Lanka,Hobart,28-02-2012
-AB de Villiers,SA,106,106,3,4,100,2,New Zealand,Wellington,25-02-2012
+AB de Villiers,SA,106,106,3,4,100.0,2,New Zealand,Wellington,25-02-2012
 PJ Forrest,AUS,104,138,10,2,75.36,1,Sri Lanka,Hobart,24-02-2012
 KP Pietersen,ENG,130,153,12,2,84.96,2,Pakistan,Dubai (DSC),21-02-2012
 KP Pietersen,ENG,111,98,10,2,113.26,2,Pakistan,Dubai (DSC),18-02-2012
@@ -946,11 +946,11 @@ V Kohli,IND,107,93,9,1,115.05,1,England,Cardiff,16-09-2011
 Mohammad Hafeez,PAK,139,147,13,1,94.55,2,Zimbabwe,Harare,11-09-2011
 BRM Taylor,ZIM,106,137,7,1,77.37,1,Bangladesh,Bulawayo,19-08-2011
 WU Tharanga,SL,111,139,12,0,79.85,1,Australia,Hambantota,16-08-2011
-Mushfiqur Rahim,BAN,101,100,8,1,101,2,Zimbabwe,Harare,16-08-2011
+Mushfiqur Rahim,BAN,101,100,8,1,101.0,2,Zimbabwe,Harare,16-08-2011
 PR Stirling,IRE,113,95,10,6,118.94,1,Scotland,Edinburgh,12-07-2011
-AN Cook,ENG,119,143,13,0,83.21,1,Sri Lanka,Lord's,03-07-2011
 LD Chandimal,SL,105,126,11,2,83.33,2,England,Lord's,03-07-2011
-DPMD Jayawardene,SL,144,150,14,0,96,1,England,Leeds,01-07-2011
+AN Cook,ENG,119,143,13,0,83.21,1,Sri Lanka,Lord's,03-07-2011
+DPMD Jayawardene,SL,144,150,14,0,96.0,1,England,Leeds,01-07-2011
 PR Stirling,IRE,109,107,7,4,101.86,1,Pakistan,Belfast,30-05-2011
 Mohammad Hafeez,PAK,121,138,7,3,87.68,1,West Indies,Bridgetown,02-05-2011
 Ahmed Shehzad,PAK,102,148,7,1,68.91,2,West Indies,Gros Islet,25-04-2011
@@ -979,7 +979,7 @@ AJ Strauss,ENG,158,145,18,1,108.96,2,India,Bengaluru,27-02-2011
 AB de Villiers,SA,107,105,8,2,101.9,2,West Indies,Delhi,24-02-2011
 RN ten Doeschate,NED,119,110,9,3,108.18,1,England,Nagpur,22-02-2011
 DPMD Jayawardene,SL,100,81,9,1,123.45,1,Canada,Hambantota,20-02-2011
-V Sehwag,IND,175,140,14,5,125,1,Bangladesh,Mirpur,19-02-2011
+V Sehwag,IND,175,140,14,5,125.0,1,Bangladesh,Mirpur,19-02-2011
 V Kohli,IND,100,83,8,2,120.48,1,Bangladesh,Mirpur,19-02-2011
 JD Ryder,NZ,107,93,7,6,115.05,1,Pakistan,Auckland,05-02-2011
 WU Tharanga,SL,101,143,7,0,70.62,2,West Indies,Colombo (SSC),03-02-2011
@@ -989,7 +989,7 @@ AB Barath,WI,113,129,8,2,87.59,1,Sri Lanka,Colombo (SSC),31-01-2011
 Mohammad Hafeez,PAK,115,144,12,2,79.86,1,New Zealand,Christchurch,29-01-2011
 IJL Trott,ENG,102,126,6,0,80.95,1,Australia,Adelaide,26-01-2011
 HM Amla,SA,116,132,9,0,87.87,1,India,Centurion,23-01-2011
-YK Pathan,IND,105,70,8,8,150,2,South Africa,Centurion,23-01-2011
+YK Pathan,IND,105,70,8,8,150.0,2,South Africa,Centurion,23-01-2011
 SE Marsh,AUS,110,114,8,2,96.49,1,England,Hobart,21-01-2011
 SR Watson,AUS,161,150,12,4,107.33,2,England,Melbourne,16-01-2011
 YK Pathan,IND,123,96,7,7,128.12,2,New Zealand,Bengaluru,07-12-2010
@@ -997,8 +997,8 @@ G Gambhir,IND,126,117,16,0,107.69,2,New Zealand,Vadodara,04-12-2010
 G Gambhir,IND,138,116,18,0,118.96,2,New Zealand,Jaipur,01-12-2010
 V Kohli,IND,105,104,10,0,100.96,1,New Zealand,Guwahati,28-11-2010
 HM Amla,SA,119,126,9,0,94.44,1,Pakistan,Dubai (DSC),02-11-2010
-CA Ingram,SA,100,119,10,1,84.03,1,Pakistan,Abu Dhabi,31-10-2010
 Abdul Razzaq,PAK,109,72,7,10,151.38,2,South Africa,Abu Dhabi,31-10-2010
+CA Ingram,SA,100,119,10,1,84.03,1,Pakistan,Abu Dhabi,31-10-2010
 JP Duminy,SA,129,117,7,4,110.25,1,Zimbabwe,Benoni,22-10-2010
 AB de Villiers,SA,109,99,5,5,110.1,1,Zimbabwe,Benoni,22-10-2010
 MJ Clarke,AUS,111,139,7,1,79.85,1,India,Visakhapatnam,20-10-2010
@@ -1020,7 +1020,7 @@ Karim Sadiq,AFG,114,108,11,3,105.55,2,Scotland,Ayr,16-08-2010
 Mohammad Shahzad,AFG,100,72,15,0,138.88,2,Scotland,Ayr,16-08-2010
 Junaid Siddique,BAN,100,123,9,0,81.3,1,Ireland,Belfast,15-07-2010
 WTS Porterfield,IRE,108,116,7,3,93.1,2,Bangladesh,Belfast,15-07-2010
-AJ Strauss,ENG,154,140,16,5,110,1,Bangladesh,Birmingham,12-07-2010
+AJ Strauss,ENG,154,140,16,5,110.0,1,Bangladesh,Birmingham,12-07-2010
 IJL Trott,ENG,110,121,12,0,90.9,1,Bangladesh,Birmingham,12-07-2010
 TLW Cooper,NED,101,155,9,0,65.16,1,Afghanistan,The Hague,07-07-2010
 EJG Morgan,ENG,103,85,16,0,121.17,2,Australia,Southampton,22-06-2010
@@ -1030,7 +1030,7 @@ TM Dilshan,SL,108,102,14,0,105.88,2,Zimbabwe,Harare,09-06-2010
 BRM Taylor,ZIM,119,137,9,1,86.86,2,Sri Lanka,Harare,07-06-2010
 LD Chandimal,SL,111,118,6,5,94.06,2,India,Harare,05-06-2010
 HM Amla,SA,129,115,9,2,112.17,2,West Indies,Roseau,30-05-2010
-RG Sharma,IND,101,100,6,2,101,2,Sri Lanka,Bulawayo,30-05-2010
+RG Sharma,IND,101,100,6,2,101.0,2,Sri Lanka,Bulawayo,30-05-2010
 RG Sharma,IND,114,119,6,4,95.79,1,Zimbabwe,Bulawayo,28-05-2010
 HM Amla,SA,102,109,8,0,93.57,1,West Indies,North Sound,22-05-2010
 AB de Villiers,SA,102,101,5,2,100.99,1,West Indies,North Sound,22-05-2010
@@ -1069,7 +1069,7 @@ PD Collingwood,ENG,105,110,7,2,95.45,2,South Africa,Centurion,22-11-2009
 JP Duminy,SA,111,87,9,2,127.58,1,Zimbabwe,Centurion,10-11-2009
 T Taibu,ZIM,103,112,6,3,91.96,2,South Africa,Benoni,08-11-2009
 BB McCullum,NZ,131,129,14,3,101.55,1,Pakistan,Abu Dhabi,06-11-2009
-SE Marsh,AUS,112,112,8,2,100,1,India,Hyderabad,05-11-2009
+SE Marsh,AUS,112,112,8,2,100.0,1,India,Hyderabad,05-11-2009
 SR Tendulkar,IND,175,141,19,4,124.11,2,Australia,Hyderabad,05-11-2009
 BRM Taylor,ZIM,118,125,7,4,94.4,1,Bangladesh,Chattogram,05-11-2009
 Shakib Al Hasan,BAN,105,69,15,3,152.17,2,Zimbabwe,Mirpur,29-10-2009
@@ -1082,7 +1082,7 @@ RT Ponting,AUS,111,115,12,1,96.52,2,England,Centurion,02-10-2009
 GC Smith,SA,141,134,16,0,105.22,2,England,Centurion,27-09-2009
 Shoaib Malik,PAK,128,126,16,0,101.58,1,India,Centurion,26-09-2009
 TM Dilshan,SL,106,92,16,1,115.21,1,South Africa,Centurion,22-09-2009
-TD Paine,AUS,111,148,14,1,75,1,England,Nottingham,17-09-2009
+TD Paine,AUS,111,148,14,1,75.0,1,England,Nottingham,17-09-2009
 RT Ponting,AUS,126,109,14,3,115.59,2,England,Nottingham,15-09-2009
 SR Tendulkar,IND,138,133,10,1,103.75,1,Sri Lanka,Colombo (RPS),14-09-2009
 CL White,AUS,105,124,9,1,84.67,2,England,Southampton,09-09-2009
@@ -1093,13 +1093,13 @@ CK Coventry,ZIM,194,156,16,7,124.35,1,Bangladesh,Bulawayo,16-08-2009
 Tamim Iqbal,BAN,154,138,7,6,111.59,2,Zimbabwe,Bulawayo,16-08-2009
 H Masakadza,ZIM,102,112,4,2,91.07,1,Bangladesh,Bulawayo,14-08-2009
 Shakib Al Hasan,BAN,104,64,9,4,162.5,1,Zimbabwe,Bulawayo,11-08-2009
-Mohammad Ashraful,BAN,103,103,12,2,100,2,Zimbabwe,Bulawayo,09-08-2009
+Mohammad Ashraful,BAN,103,103,12,2,100.0,2,Zimbabwe,Bulawayo,09-08-2009
 Umar Akmal,PAK,102,72,5,4,141.66,1,Sri Lanka,Colombo (RPS),07-08-2009
 DPMD Jayawardene,SL,123,108,14,1,113.88,2,Pakistan,Dambulla,03-08-2009
 TM Dowlin,WI,100,117,6,1,85.47,1,Bangladesh,Roseau,28-07-2009
-GM Hamilton,SCOT,119,152,3,1,78.28,1,Canada,Aberdeen,07-07-2009
-DF Watts,SCOT,101,108,6,2,93.51,1,Canada,Aberdeen,07-07-2009
 S Jyoti,CAN,117,122,10,1,95.9,2,Scotland,Aberdeen,07-07-2009
+DF Watts,SCOT,101,108,6,2,93.51,1,Canada,Aberdeen,07-07-2009
+GM Hamilton,SCOT,119,152,3,1,78.28,1,Canada,Aberdeen,07-07-2009
 Yuvraj Singh,IND,131,102,10,7,128.43,1,West Indies,Kingston,26-06-2009
 SR Watson,AUS,116,146,6,2,79.45,1,Pakistan,Abu Dhabi,03-05-2009
 Kamran Akmal,PAK,116,115,13,0,100.86,2,Australia,Abu Dhabi,03-05-2009
@@ -1113,8 +1113,8 @@ WTS Porterfield,IRE,101,89,12,3,113.48,2,Scotland,Benoni,01-04-2009
 S Chanderpaul,WI,112,134,10,0,83.58,1,England,Providence,22-03-2009
 AJ Strauss,ENG,105,129,7,0,81.39,2,West Indies,Providence,22-03-2009
 V Sehwag,IND,125,74,14,6,168.91,2,New Zealand,Hamilton,11-03-2009
-SR Tendulkar,IND,163,133,16,5,122.55,1,New Zealand,Christchurch,08-03-2009
 JD Ryder,NZ,105,80,12,4,131.25,2,India,Christchurch,08-03-2009
+SR Tendulkar,IND,163,133,16,5,122.55,1,New Zealand,Christchurch,08-03-2009
 BJ Haddin,AUS,109,114,8,3,95.61,1,New Zealand,Sydney,08-02-2009
 GD Elliott,NZ,115,124,8,0,92.74,2,Australia,Sydney,08-02-2009
 G Gambhir,IND,150,147,14,1,102.04,1,Sri Lanka,Colombo (RPS),05-02-2009
@@ -1129,8 +1129,8 @@ KP Pietersen,ENG,111,128,10,1,86.71,1,India,Cuttack,26-11-2008
 Yuvraj Singh,IND,118,122,15,2,96.72,1,England,Indore,17-11-2008
 Younis Khan,PAK,101,119,5,1,84.87,1,West Indies,Abu Dhabi,16-11-2008
 CH Gayle,WI,122,137,5,6,89.05,2,Pakistan,Abu Dhabi,16-11-2008
-S Chanderpaul,WI,107,149,6,0,71.81,2,Pakistan,Abu Dhabi,14-11-2008
 Yuvraj Singh,IND,138,78,16,6,176.92,1,England,Rajkot,14-11-2008
+S Chanderpaul,WI,107,149,6,0,71.81,2,Pakistan,Abu Dhabi,14-11-2008
 CH Gayle,WI,113,106,11,5,106.6,1,Pakistan,Abu Dhabi,12-11-2008
 HM Amla,SA,140,135,8,4,103.7,1,Bangladesh,Benoni,09-11-2008
 SO Tikolo,KENYA,102,99,12,2,103.03,1,Zimbabwe,Nairobi (Gym),19-10-2008
@@ -1140,13 +1140,13 @@ XM Marshall,WI,157,118,11,12,133.05,1,Canada,King City (NW),22-08-2008
 ST Jayasuriya,SL,125,114,9,5,109.64,1,India,Karachi,06-07-2008
 Younis Khan,PAK,123,117,11,1,105.12,2,India,Karachi,02-07-2008
 GM Hamilton,SCOT,115,150,13,0,76.66,2,Ireland,Aberdeen,02-07-2008
-AM Samad,CAN,130,125,12,2,104,1,Bermuda,King City (NW),01-07-2008
+AM Samad,CAN,130,125,12,2,104.0,1,Bermuda,King City (NW),01-07-2008
 JAH Marshall,NZ,161,141,11,4,114.18,1,Ireland,Aberdeen,01-07-2008
 BB McCullum,NZ,166,135,12,10,122.96,1,Ireland,Aberdeen,01-07-2008
 ST Jayasuriya,SL,130,88,16,6,147.72,1,Bangladesh,Karachi,30-06-2008
 KC Sangakkara,SL,121,128,16,1,94.53,1,Bangladesh,Karachi,30-06-2008
-SR Watson,AUS,126,122,15,2,103.27,2,West Indies,St George's,29-06-2008
 KC Sangakkara,SL,112,110,10,1,101.81,1,Pakistan,Karachi,29-06-2008
+SR Watson,AUS,126,122,15,2,103.27,2,West Indies,St George's,29-06-2008
 Alok Kapali,BAN,115,96,10,5,119.79,1,India,Karachi,28-06-2008
 SK Raina,IND,116,107,11,3,108.41,2,Bangladesh,Karachi,28-06-2008
 Shoaib Malik,PAK,125,119,16,1,105.04,1,India,Karachi,26-06-2008
@@ -1160,9 +1160,9 @@ Salman Butt,PAK,129,136,12,3,94.85,1,India,Mirpur,14-06-2008
 Younis Khan,PAK,108,99,8,3,109.09,1,India,Mirpur,14-06-2008
 G Gambhir,IND,107,101,13,1,105.94,2,Bangladesh,Mirpur,12-06-2008
 Salman Butt,PAK,136,124,14,1,109.67,1,Bangladesh,Karachi,19-04-2008
-Shakib Al Hasan,BAN,108,120,8,0,90,1,Pakistan,Multan,16-04-2008
-Salman Butt,PAK,132,127,15,0,103.93,1,Bangladesh,Lahore,13-04-2008
+Shakib Al Hasan,BAN,108,120,8,0,90.0,1,Pakistan,Multan,16-04-2008
 Kamran Akmal,PAK,100,81,16,1,123.45,1,Bangladesh,Lahore,13-04-2008
+Salman Butt,PAK,132,127,15,0,103.93,1,Bangladesh,Lahore,13-04-2008
 Mohammad Yousuf,PAK,108,103,11,0,104.85,1,Bangladesh,Lahore,08-04-2008
 Tamim Iqbal,BAN,129,136,15,1,94.85,1,Ireland,Mirpur,22-03-2008
 GC Smith,SA,103,118,14,1,87.28,2,Bangladesh,Chattogram,09-03-2008
@@ -1192,7 +1192,7 @@ MJ Clarke,AUS,130,132,10,3,98.48,1,India,Bengaluru,29-09-2007
 OA Shah,ENG,107,95,11,2,112.63,1,India,The Oval,05-09-2007
 AB de Villiers,SA,107,89,8,6,120.22,1,Zimbabwe,Harare,26-08-2007
 T Taibu,ZIM,107,103,9,1,103.88,2,South Africa,Harare,26-08-2007
-HH Gibbs,SA,111,100,16,2,111,2,Zimbabwe,Harare,25-08-2007
+HH Gibbs,SA,111,100,16,2,111.0,2,Zimbabwe,Harare,25-08-2007
 AN Cook,ENG,102,126,8,0,80.95,1,India,Southampton,21-08-2007
 IR Bell,ENG,126,118,10,1,106.77,1,India,Southampton,21-08-2007
 S Chanderpaul,WI,116,122,9,3,95.08,1,England,Birmingham,04-07-2007
@@ -1203,7 +1203,7 @@ G Gambhir,IND,101,113,11,0,89.38,1,Bangladesh,Mirpur,12-05-2007
 AC Gilchrist,AUS,149,104,13,8,143.26,1,Sri Lanka,Bridgetown,28-04-2007
 DPMD Jayawardene,SL,115,109,10,3,105.5,1,New Zealand,Kingston,24-04-2007
 KP Pietersen,ENG,100,91,10,1,109.89,2,West Indies,Bridgetown,21-04-2007
-ML Hayden,AUS,103,100,10,2,103,1,New Zealand,St George's,20-04-2007
+ML Hayden,AUS,103,100,10,2,103.0,1,New Zealand,St George's,20-04-2007
 SB Styris,NZ,111,157,8,0,70.7,1,Sri Lanka,St George's,12-04-2007
 AB de Villiers,SA,146,130,12,5,112.3,1,West Indies,St George's,10-04-2007
 KP Pietersen,ENG,104,122,6,1,85.24,1,Australia,North Sound,08-04-2007
@@ -1224,9 +1224,9 @@ Shakib Al Hasan,BAN,134,152,14,0,88.15,1,Canada,St John's,28-02-2007
 Shahriar Nafees,BAN,104,112,8,3,92.85,2,Bermuda,St John's,25-02-2007
 ML Hayden,AUS,181,166,11,10,109.03,1,New Zealand,Hamilton,20-02-2007
 CD McMillan,NZ,117,96,13,5,121.87,2,Australia,Hamilton,20-02-2007
-MEK Hussey,AUS,105,84,8,6,125,1,New Zealand,Auckland,18-02-2007
+MEK Hussey,AUS,105,84,8,6,125.0,1,New Zealand,Auckland,18-02-2007
 LRPL Taylor,NZ,117,127,16,1,92.12,2,Australia,Auckland,18-02-2007
-LPC Silva,SL,107,107,12,1,100,1,India,Visakhapatnam,17-02-2007
+LPC Silva,SL,107,107,12,1,100.0,1,India,Visakhapatnam,17-02-2007
 KC Sangakkara,SL,110,127,11,4,86.61,1,India,Rajkot,11-02-2007
 PD Collingwood,ENG,120,133,7,1,90.22,2,Australia,Melbourne,09-02-2007
 Mohammad Yousuf,PAK,101,111,12,0,90.99,1,South Africa,Durban,07-02-2007
@@ -1243,8 +1243,8 @@ EC Joyce,ENG,107,142,10,0,75.35,1,Australia,Sydney,02-02-2007
 A Bagai,CAN,137,172,12,1,79.65,2,Scotland,Nairobi (Ruaraka),31-01-2007
 WTS Porterfield,IRE,112,142,9,0,78.87,2,Bermuda,Nairobi (Jaff),31-01-2007
 SR Tendulkar,IND,100,76,10,1,131.57,1,West Indies,Vadodara,31-01-2007
-JP Bray,IRE,116,136,10,4,85.29,1,Scotland,Nairobi (Gym),30-01-2007
 NFI McCallum,SCOT,100,92,7,3,108.69,2,Ireland,Nairobi (Gym),30-01-2007
+JP Bray,IRE,116,136,10,4,85.29,1,Scotland,Nairobi (Gym),30-01-2007
 ML Hayden,AUS,117,111,15,0,105.4,1,New Zealand,Perth,28-01-2007
 RT Ponting,AUS,111,122,8,1,90.98,1,New Zealand,Perth,28-01-2007
 JDP Oram,NZ,101,72,4,6,140.27,2,Australia,Perth,28-01-2007
@@ -1273,7 +1273,7 @@ Younis Khan,PAK,101,109,13,1,92.66,2,England,Southampton,05-09-2006
 IH Romaine,BER,101,111,13,5,90.99,1,Canada,Toronto,21-08-2006
 Shahriar Nafees,BAN,118,148,12,0,79.72,2,Zimbabwe,Harare,06-08-2006
 ST Jayasuriya,SL,157,104,24,1,150.96,1,Netherlands,Amstelveen,04-07-2006
-TM Dilshan,SL,117,78,15,2,150,1,Netherlands,Amstelveen,04-07-2006
+TM Dilshan,SL,117,78,15,2,150.0,1,Netherlands,Amstelveen,04-07-2006
 ME Trescothick,ENG,121,118,16,1,102.54,1,Sri Lanka,Leeds,01-07-2006
 WU Tharanga,SL,109,102,14,1,106.86,2,England,Leeds,01-07-2006
 ST Jayasuriya,SL,152,99,20,4,153.53,2,England,Leeds,01-07-2006
@@ -1301,7 +1301,7 @@ NJ Astle,NZ,118,126,7,3,93.65,1,West Indies,Christchurch,25-02-2006
 Yuvraj Singh,IND,107,93,14,0,115.05,2,Pakistan,Karachi,19-02-2006
 AC Gilchrist,AUS,122,91,13,4,134.06,2,Sri Lanka,Brisbane,14-02-2006
 SM Katich,AUS,107,142,9,0,75.35,2,Sri Lanka,Brisbane,14-02-2006
-Shoaib Malik,PAK,108,120,11,1,90,1,India,Lahore,13-02-2006
+Shoaib Malik,PAK,108,120,11,1,90.0,1,India,Lahore,13-02-2006
 RT Ponting,AUS,124,127,9,3,97.63,1,Sri Lanka,Sydney,12-02-2006
 A Symonds,AUS,151,127,13,3,118.89,1,Sri Lanka,Sydney,12-02-2006
 SR Tendulkar,IND,100,113,10,1,88.49,1,Pakistan,Peshawar,06-02-2006
@@ -1333,7 +1333,7 @@ RT Ponting,AUS,111,115,14,1,96.52,2,England,Lord's,10-07-2005
 ME Trescothick,ENG,104,134,8,1,77.61,2,Australia,Leeds,07-07-2005
 AJ Strauss,ENG,152,128,19,0,118.75,1,Bangladesh,Nottingham,21-06-2005
 PD Collingwood,ENG,112,86,10,5,130.23,1,Bangladesh,Nottingham,21-06-2005
-Mohammad Ashraful,BAN,100,101,11,0,99,2,Australia,Cardiff,18-06-2005
+Mohammad Ashraful,BAN,100,101,11,0,99.0,2,Australia,Cardiff,18-06-2005
 ME Trescothick,ENG,100,76,16,0,131.57,2,Bangladesh,The Oval,16-06-2005
 CH Gayle,WI,124,137,13,0,90.51,2,Pakistan,Gros Islet,22-05-2005
 HH Dippenaar,SA,123,129,12,0,95.34,1,West Indies,Bridgetown,11-05-2005
@@ -1343,8 +1343,8 @@ Shahid Afridi,PAK,102,46,10,9,221.73,2,India,Kanpur,15-04-2005
 SR Tendulkar,IND,123,130,12,2,94.61,1,Pakistan,Ahmedabad,12-04-2005
 Salman Butt,PAK,101,116,10,0,87.06,1,India,Jamshedpur,09-04-2005
 MS Dhoni,IND,148,123,15,4,120.32,1,Pakistan,Visakhapatnam,05-04-2005
-V Sehwag,IND,108,95,9,3,113.68,1,Pakistan,Kochi,02-04-2005
 R Dravid,IND,104,139,6,0,74.82,1,Pakistan,Kochi,02-04-2005
+V Sehwag,IND,108,95,9,3,113.68,1,Pakistan,Kochi,02-04-2005
 RT Ponting,AUS,141,127,10,5,111.02,1,New Zealand,Napier,05-03-2005
 GC Smith,SA,117,129,5,4,90.69,1,Zimbabwe,Durban,27-02-2005
 ML Hayden,AUS,114,124,12,2,91.93,1,New Zealand,Christchurch,22-02-2005
@@ -1355,7 +1355,7 @@ KP Pietersen,ENG,100,69,7,4,144.92,2,South Africa,East London,09-02-2005
 HH Gibbs,SA,100,115,8,3,86.95,1,England,Cape Town,06-02-2005
 GC Smith,SA,105,131,9,0,80.15,2,England,Gqeberha,04-02-2005
 KP Pietersen,ENG,108,96,6,2,112.5,1,South Africa,Bloemfontein,02-02-2005
-Mohammad Yousuf,PAK,105,100,9,0,105,1,West Indies,Perth,01-02-2005
+Mohammad Yousuf,PAK,105,100,9,0,105.0,1,West Indies,Perth,01-02-2005
 BC Lara,WI,156,138,12,5,113.04,1,Pakistan,Adelaide,28-01-2005
 MJ Clarke,AUS,103,107,14,1,96.26,2,Pakistan,Sydney,23-01-2005
 WW Hinds,WI,107,138,8,0,77.53,1,Australia,Brisbane,21-01-2005
@@ -1375,13 +1375,13 @@ JH Kallis,SA,101,127,7,1,79.52,2,Sri Lanka,Colombo (SSC),31-08-2004
 ST Jayasuriya,SL,130,132,14,1,98.48,2,India,Colombo (RPS),27-07-2004
 Shoaib Malik,PAK,143,127,18,1,112.59,1,India,Colombo (RPS),25-07-2004
 ST Jayasuriya,SL,107,101,11,0,105.94,2,Bangladesh,Colombo (RPS),23-07-2004
-Shoaib Malik,PAK,118,110,10,2,107.27,1,Hong Kong,Colombo (SSC),18-07-2004
 Younis Khan,PAK,144,122,8,3,118.03,1,Hong Kong,Colombo (SSC),18-07-2004
+Shoaib Malik,PAK,118,110,10,2,107.27,1,Hong Kong,Colombo (SSC),18-07-2004
 Yasir Hameed,PAK,102,123,10,0,82.92,1,Bangladesh,Colombo (SSC),17-07-2004
 R Dravid,IND,104,93,8,0,111.82,1,U.A.E.,Dambulla,16-07-2004
 AJ Strauss,ENG,100,116,8,2,86.2,1,West Indies,Lord's,06-07-2004
 A Flintoff,ENG,123,104,8,7,118.26,1,West Indies,Lord's,06-07-2004
-CH Gayle,WI,132,165,12,1,80,2,England,Lord's,06-07-2004
+CH Gayle,WI,132,165,12,1,80.0,2,England,Lord's,06-07-2004
 A Flintoff,ENG,106,121,11,2,87.6,1,New Zealand,Bristol,04-07-2004
 MJ Clarke,AUS,105,102,16,1,102.94,2,Zimbabwe,Harare,29-05-2004
 RR Sarwan,WI,104,105,13,0,99.04,1,England,Bridgetown,05-05-2004
@@ -1398,7 +1398,7 @@ JH Kallis,SA,139,142,11,3,97.88,2,West Indies,Johannesburg,04-02-2004
 JH Kallis,SA,109,94,6,5,115.95,1,West Indies,Cape Town,25-01-2004
 VVS Laxman,IND,131,138,13,1,94.92,1,Zimbabwe,Adelaide,24-01-2004
 SV Carlisle,ZIM,109,128,9,0,85.15,2,India,Adelaide,24-01-2004
-SM Ervine,ZIM,100,100,9,1,100,2,India,Adelaide,24-01-2004
+SM Ervine,ZIM,100,100,9,1,100.0,2,India,Adelaide,24-01-2004
 VVS Laxman,IND,106,130,5,0,81.53,1,Australia,Sydney,22-01-2004
 Yuvraj Singh,IND,139,122,16,2,113.93,1,Australia,Sydney,22-01-2004
 VVS Laxman,IND,103,113,8,0,91.15,1,Australia,Brisbane,18-01-2004
@@ -1433,7 +1433,7 @@ BC Lara,WI,116,106,8,2,109.43,1,Sri Lanka,Bridgetown,08-06-2003
 DS Lehmann,AUS,107,109,10,1,98.16,1,West Indies,St George's,01-06-2003
 WW Hinds,WI,103,130,6,3,79.23,2,Australia,St George's,01-06-2003
 WW Hinds,WI,125,140,5,6,89.28,2,Australia,St George's,30-05-2003
-Yuvraj Singh,IND,102,85,9,4,120,1,Bangladesh,Dhaka,11-04-2003
+Yuvraj Singh,IND,102,85,9,4,120.0,1,Bangladesh,Dhaka,11-04-2003
 KC Sangakkara,SL,103,108,9,0,95.37,1,Kenya,Sharjah,06-04-2003
 DA Marillier,ZIM,100,140,7,2,71.42,2,Kenya,Sharjah,05-04-2003
 KC Sangakkara,SL,100,111,9,0,90.09,1,Pakistan,Sharjah,04-04-2003
@@ -1454,7 +1454,7 @@ JM Davison,CAN,111,76,8,6,146.05,1,West Indies,Centurion,23-02-2003
 HH Gibbs,SA,143,141,19,3,101.41,1,New Zealand,Johannesburg,16-02-2003
 SP Fleming,NZ,134,132,21,0,101.51,2,South Africa,Johannesburg,16-02-2003
 A Symonds,AUS,143,125,18,2,114.4,1,Pakistan,Johannesburg,11-02-2003
-ST Jayasuriya,SL,120,125,14,0,96,1,New Zealand,Bloemfontein,10-02-2003
+ST Jayasuriya,SL,120,125,14,0,96.0,1,New Zealand,Bloemfontein,10-02-2003
 SB Styris,NZ,141,125,3,6,112.8,2,Sri Lanka,Bloemfontein,10-02-2003
 CB Wishart,ZIM,172,151,18,3,113.9,1,Namibia,Harare,10-02-2003
 BC Lara,WI,116,134,12,2,86.56,1,South Africa,Cape Town,09-02-2003
@@ -1465,7 +1465,7 @@ DR Martyn,AUS,101,114,10,0,88.59,1,England,Hobart,11-01-2003
 MS Atapattu,SL,101,124,5,0,81.45,1,Australia,Sydney,09-01-2003
 ST Jayasuriya,SL,122,105,12,4,116.19,1,Australia,Sydney,09-01-2003
 V Sehwag,IND,108,119,9,2,90.75,2,New Zealand,Napier,29-12-2002
-DS Lehmann,AUS,119,119,12,1,100,1,Sri Lanka,Perth,22-12-2002
+DS Lehmann,AUS,119,119,12,1,100.0,1,Sri Lanka,Perth,22-12-2002
 PD Collingwood,ENG,100,124,4,2,80.64,1,Sri Lanka,Perth,20-12-2002
 G Kirsten,SA,102,118,9,0,86.44,2,Pakistan,Paarl,16-12-2002
 AC Gilchrist,AUS,124,104,12,4,119.23,1,England,Melbourne,15-12-2002
@@ -1474,14 +1474,14 @@ NV Knight,ENG,111,133,6,1,83.45,1,Australia,Sydney,13-12-2002
 Saleem Elahi,PAK,135,129,19,0,104.65,1,South Africa,Gqeberha,11-12-2002
 Abdul Razzaq,PAK,112,120,13,2,93.33,1,South Africa,Gqeberha,11-12-2002
 HH Gibbs,SA,108,92,14,3,117.39,2,Sri Lanka,Kimberley,04-12-2002
-RR Sarwan,WI,102,100,11,0,102,1,Bangladesh,Dhaka,02-12-2002
+RR Sarwan,WI,102,100,11,0,102.0,1,Bangladesh,Dhaka,02-12-2002
 MS Atapattu,SL,123,121,15,1,101.65,2,South Africa,Benoni,01-12-2002
 GW Flower,ZIM,105,146,11,0,71.91,1,Pakistan,Harare,30-11-2002
 Faisal Iqbal,PAK,100,97,9,3,103.09,2,Zimbabwe,Harare,30-11-2002
 Saleem Elahi,PAK,108,119,10,0,90.75,1,Zimbabwe,Harare,27-11-2002
 Mohammad Yousuf,PAK,100,68,8,2,147.05,1,Zimbabwe,Harare,27-11-2002
 Saleem Elahi,PAK,107,112,16,0,95.53,1,Zimbabwe,Bulawayo,24-11-2002
-MN Samuels,WI,108,75,11,5,144,1,India,Vijayawada,24-11-2002
+MN Samuels,WI,108,75,11,5,144.0,1,India,Vijayawada,24-11-2002
 Mohammad Yousuf,PAK,141,147,13,3,95.91,1,Zimbabwe,Bulawayo,23-11-2002
 CH Gayle,WI,101,107,10,3,94.39,2,India,Vadodara,18-11-2002
 CH Gayle,WI,140,127,12,5,110.23,1,India,Ahmedabad,15-11-2002
@@ -1498,10 +1498,10 @@ BC Lara,WI,111,120,8,2,92.5,1,Kenya,Colombo (SSC),17-09-2002
 MS Atapattu,SL,101,118,8,0,85.59,1,Netherlands,Colombo (RPS),16-09-2002
 M Kaif,IND,111,112,8,1,99.1,1,Zimbabwe,Colombo (RPS),14-09-2002
 A Flower,ZIM,145,164,13,0,88.41,2,India,Colombo (RPS),14-09-2002
-ST Jayasuriya,SL,102,120,10,0,85,2,Pakistan,Colombo (RPS),12-09-2002
+ST Jayasuriya,SL,102,120,10,0,85.0,2,Pakistan,Colombo (RPS),12-09-2002
 ML Hayden,AUS,146,128,12,6,114.06,1,Pakistan,Nairobi (Gym),30-08-2002
 HH Gibbs,SA,114,130,8,3,87.69,1,Pakistan,Tangier,12-08-2002
-ME Trescothick,ENG,109,100,7,2,109,1,India,Lord's,13-07-2002
+ME Trescothick,ENG,109,100,7,2,109.0,1,India,Lord's,13-07-2002
 N Hussain,ENG,115,128,10,0,89.84,1,India,Lord's,13-07-2002
 SR Tendulkar,IND,113,102,12,1,110.78,1,Sri Lanka,Bristol,11-07-2002
 SR Tendulkar,IND,105,108,8,1,97.22,1,England,Chester-le-Street,04-07-2002
@@ -1524,7 +1524,7 @@ NV Knight,ENG,105,131,7,0,80.15,1,India,Delhi,31-01-2002
 MG Bevan,AUS,102,95,7,0,107.36,2,New Zealand,Melbourne,29-01-2002
 Mohammad Yousuf,PAK,112,108,12,2,103.7,1,Bangladesh,Dhaka,24-01-2002
 DR Martyn,AUS,104,121,5,0,85.95,1,South Africa,Brisbane,20-01-2002
-ME Trescothick,ENG,121,109,13,2,111,2,India,Eden Gardens,19-01-2002
+ME Trescothick,ENG,121,109,13,2,111.0,2,India,Eden Gardens,19-01-2002
 CL Cairns,NZ,102,99,9,3,103.03,2,South Africa,Brisbane,19-01-2002
 DPMD Jayawardene,SL,106,94,8,2,112.76,2,West Indies,Kandy,15-12-2001
 DD Ebrahim,ZIM,121,140,11,0,86.42,1,Bangladesh,Dhaka,25-11-2001
@@ -1543,7 +1543,7 @@ HH Gibbs,SA,125,112,15,2,111.6,1,Zimbabwe,Bulawayo,23-09-2001
 CH Gayle,WI,152,150,17,1,101.33,1,Kenya,Nairobi,15-08-2001
 NJ Astle,NZ,108,143,9,0,75.52,1,India,Colombo (SSC),02-08-2001
 V Sehwag,IND,100,70,19,1,142.85,2,New Zealand,Colombo (SSC),02-08-2001
-NJ Astle,NZ,117,150,9,1,78,1,India,Colombo (RPS),20-07-2001
+NJ Astle,NZ,117,150,9,1,78.0,1,India,Colombo (RPS),20-07-2001
 SR Tendulkar,IND,122,131,12,1,93.12,2,West Indies,Harare,04-07-2001
 ME Trescothick,ENG,137,142,11,3,96.47,2,Pakistan,Lord's,12-06-2001
 RT Ponting,AUS,102,116,9,2,87.93,2,England,Bristol,10-06-2001
@@ -1553,8 +1553,8 @@ HH Gibbs,SA,104,141,8,3,73.75,2,West Indies,St John's,02-05-2001
 MS Sinclair,NZ,118,137,5,2,86.13,1,Sri Lanka,Sharjah,17-04-2001
 MS Sinclair,NZ,117,144,6,0,81.25,1,Pakistan,Sharjah,12-04-2001
 GW Flower,ZIM,142,128,10,2,110.93,1,Bangladesh,Bulawayo,11-04-2001
-ST Jayasuriya,SL,107,116,3,6,92.24,1,New Zealand,Sharjah,10-04-2001
 DPMD Jayawardene,SL,116,129,13,0,89.92,1,New Zealand,Sharjah,10-04-2001
+ST Jayasuriya,SL,107,116,3,6,92.24,1,New Zealand,Sharjah,10-04-2001
 ADR Campbell,ZIM,103,145,8,1,71.03,1,Bangladesh,Harare,08-04-2001
 VVS Laxman,IND,101,107,10,0,94.39,1,Australia,Margao,06-04-2001
 ML Hayden,AUS,111,113,8,2,98.23,1,India,Visakhapatnam,03-04-2001
@@ -1570,8 +1570,8 @@ ME Waugh,AUS,173,148,16,3,116.89,1,West Indies,Melbourne,09-02-2001
 ST Jayasuriya,SL,103,83,10,6,124.09,2,New Zealand,Auckland,06-02-2001
 DR Martyn,AUS,144,149,12,0,96.64,1,Zimbabwe,Perth,04-02-2001
 SV Carlisle,ZIM,119,145,11,1,82.06,2,Australia,Perth,04-02-2001
-ADR Campbell,ZIM,124,142,10,1,87.32,1,Australia,Hobart,30-01-2001
 ME Waugh,AUS,102,113,5,0,90.26,2,Zimbabwe,Hobart,30-01-2001
+ADR Campbell,ZIM,124,142,10,1,87.32,1,Australia,Hobart,30-01-2001
 BC Lara,WI,116,106,10,2,109.43,2,Australia,Sydney,17-01-2001
 ME Waugh,AUS,112,128,7,0,87.5,2,West Indies,Brisbane,14-01-2001
 JH Kallis,SA,100,139,3,1,71.94,2,Sri Lanka,Paarl,09-01-2001
@@ -1587,9 +1587,9 @@ DPMD Jayawardene,SL,128,123,15,0,104.06,1,India,Sharjah,27-10-2000
 ADR Campbell,ZIM,105,133,6,1,78.94,1,India,Sharjah,26-10-2000
 N Boje,SA,129,114,13,1,113.15,1,New Zealand,Centurion,25-10-2000
 A Flower,ZIM,120,141,8,1,85.1,1,Sri Lanka,Sharjah,21-10-2000
-N Boje,SA,105,93,12,0,112.9,1,New Zealand,Potchefstroom,20-10-2000
 SR Tendulkar,IND,101,140,3,1,72.14,1,Sri Lanka,Sharjah,20-10-2000
-SC Ganguly,IND,117,130,9,4,90,1,New Zealand,Nairobi (Gym),15-10-2000
+N Boje,SA,105,93,12,0,112.9,1,New Zealand,Potchefstroom,20-10-2000
+SC Ganguly,IND,117,130,9,4,90.0,1,New Zealand,Nairobi (Gym),15-10-2000
 CL Cairns,NZ,102,113,8,2,90.26,2,India,Nairobi (Gym),15-10-2000
 SC Ganguly,IND,141,142,11,6,99.29,1,South Africa,Nairobi (Gym),13-10-2000
 Saeed Anwar,PAK,104,115,16,0,90.43,1,New Zealand,Nairobi (Gym),11-10-2000
@@ -1620,13 +1620,13 @@ AC Gilchrist,AUS,128,98,9,7,130.61,1,New Zealand,Christchurch,26-02-2000
 MS Atapattu,SL,119,135,7,0,88.14,1,Pakistan,Karachi,13-02-2000
 ME Waugh,AUS,116,131,5,1,88.54,1,India,Adelaide,26-01-2000
 SC Ganguly,IND,141,144,12,1,97.91,1,Pakistan,Adelaide,25-01-2000
-RT Ponting,AUS,115,121,9,1,95.04,1,India,Melbourne,12-01-2000
 SC Ganguly,IND,100,127,10,0,78.74,2,Australia,Melbourne,12-01-2000
+RT Ponting,AUS,115,121,9,1,95.04,1,India,Melbourne,12-01-2000
 SV Carlisle,ZIM,121,138,8,4,87.68,1,Sri Lanka,Harare,18-12-1999
 RP Arnold,SL,103,121,7,3,85.12,1,Zimbabwe,Bulawayo,12-12-1999
-SC Ganguly,IND,153,150,18,3,102,1,New Zealand,Gwalior,11-11-1999
-SR Tendulkar,IND,186,150,20,3,124,1,New Zealand,Hyderabad (Deccan),08-11-1999
-R Dravid,IND,153,153,15,2,100,1,New Zealand,Hyderabad (Deccan),08-11-1999
+SC Ganguly,IND,153,150,18,3,102.0,1,New Zealand,Gwalior,11-11-1999
+SR Tendulkar,IND,186,150,20,3,124.0,1,New Zealand,Hyderabad (Deccan),08-11-1999
+R Dravid,IND,153,153,15,2,100.0,1,New Zealand,Hyderabad (Deccan),08-11-1999
 NJ Astle,NZ,120,136,12,2,88.23,1,India,Rajkot,05-11-1999
 ME Waugh,AUS,106,97,11,2,109.27,1,Zimbabwe,Bulawayo,21-10-1999
 NC Johnson,ZIM,110,124,13,2,88.7,2,Australia,Bulawayo,21-10-1999
@@ -1638,11 +1638,11 @@ R Dravid,IND,103,124,8,2,83.06,1,West Indies,Singapore,08-09-1999
 RL Powell,WI,124,93,9,8,133.33,2,India,Singapore,08-09-1999
 SR Tendulkar,IND,120,141,11,2,85.1,1,Sri Lanka,Colombo (SSC),29-08-1999
 Saeed Anwar,PAK,113,148,9,0,76.35,2,New Zealand,Manchester,16-06-1999
-HH Gibbs,SA,101,134,10,1,75.37,1,Australia,Leeds,13-06-1999
 SR Waugh,AUS,120,110,10,2,109.09,2,South Africa,Leeds,13-06-1999
+HH Gibbs,SA,101,134,10,1,75.37,1,Australia,Leeds,13-06-1999
 Saeed Anwar,PAK,103,144,11,0,71.52,1,Zimbabwe,The Oval,11-06-1999
-ME Waugh,AUS,104,120,13,0,86.66,1,Zimbabwe,Lord's,09-06-1999
 NC Johnson,ZIM,132,144,14,2,91.66,2,Australia,Lord's,09-06-1999
+ME Waugh,AUS,104,120,13,0,86.66,1,Zimbabwe,Lord's,09-06-1999
 A Jadeja,IND,100,138,7,2,72.46,2,Australia,The Oval,04-06-1999
 SC Ganguly,IND,183,158,17,7,115.82,1,Sri Lanka,Taunton,26-05-1999
 R Dravid,IND,145,129,17,1,112.4,1,Sri Lanka,Taunton,26-05-1999
@@ -1652,9 +1652,9 @@ DS Lehmann,AUS,110,92,10,1,119.56,1,West Indies,St George's,14-04-1999
 Inzamam-ul-Haq,PAK,107,115,6,3,93.04,1,India,Sharjah,08-04-1999
 Ijaz Ahmed,PAK,137,130,12,1,105.38,1,England,Sharjah,07-04-1999
 A Jadeja,IND,103,102,6,3,100.98,1,Sri Lanka,Pune,30-03-1999
-GW Flower,ZIM,140,125,12,6,112,1,Kenya,Dhaka,27-03-1999
+JH Kallis,SA,100,125,8,1,80.0,1,New Zealand,Auckland,27-03-1999
 DPMD Jayawardene,SL,101,138,5,0,73.18,1,Pakistan,Visakhapatnam,27-03-1999
-JH Kallis,SA,100,125,8,1,80,1,New Zealand,Auckland,27-03-1999
+GW Flower,ZIM,140,125,12,6,112.0,1,Kenya,Dhaka,27-03-1999
 Mehrab Hossain,BAN,101,116,9,2,87.06,1,Zimbabwe,Dhaka,25-03-1999
 KO Otieno,KENYA,120,137,8,6,87.59,1,Bangladesh,Dhaka,24-03-1999
 NC Johnson,ZIM,101,120,13,0,84.16,1,Kenya,Dhaka,23-03-1999
@@ -1669,12 +1669,12 @@ HH Gibbs,SA,125,146,9,0,85.61,1,West Indies,Gqeberha,30-01-1999
 GA Hick,ENG,109,119,6,2,91.59,2,Australia,Adelaide,26-01-1999
 S Chanderpaul,WI,150,136,20,0,110.29,1,South Africa,East London,24-01-1999
 CL Hooper,WI,108,119,8,3,90.75,1,South Africa,East London,24-01-1999
-GA Hick,ENG,126,118,5,4,106.77,1,Sri Lanka,Adelaide,23-01-1999
 DPMD Jayawardene,SL,120,111,9,0,108.1,2,England,Adelaide,23-01-1999
+GA Hick,ENG,126,118,5,4,106.77,1,Sri Lanka,Adelaide,23-01-1999
 CL Cairns,NZ,115,80,7,7,143.75,1,India,Christchurch,19-01-1999
 GA Hick,ENG,108,129,5,1,83.72,1,Australia,Sydney,17-01-1999
 AC Gilchrist,AUS,131,118,10,2,111.01,2,Sri Lanka,Sydney,13-01-1999
-R Dravid,IND,123,123,10,1,100,1,New Zealand,Taupo,09-01-1999
+R Dravid,IND,123,123,10,1,100.0,1,New Zealand,Taupo,09-01-1999
 Ijaz Ahmed,PAK,132,103,9,4,128.15,1,Zimbabwe,Rawalpindi,24-11-1998
 NC Johnson,ZIM,103,120,13,0,85.83,2,Pakistan,Sheikhupura,22-11-1998
 SR Tendulkar,IND,124,92,12,6,134.78,2,Zimbabwe,Sharjah,13-11-1998
@@ -1685,7 +1685,7 @@ RT Ponting,AUS,124,129,10,0,96.12,2,Pakistan,Lahore,10-11-1998
 SR Tendulkar,IND,118,112,14,2,105.35,2,Zimbabwe,Sharjah,08-11-1998
 DS Lehmann,AUS,103,101,8,0,101.98,1,Pakistan,Karachi,06-11-1998
 PA Wallace,WI,103,102,11,5,100.98,1,South Africa,Dhaka,01-11-1998
-JH Kallis,SA,113,100,5,5,113,1,Sri Lanka,Dhaka,30-10-1998
+JH Kallis,SA,113,100,5,5,113.0,1,Sri Lanka,Dhaka,30-10-1998
 SR Tendulkar,IND,141,128,13,3,110.15,1,Australia,Dhaka,28-10-1998
 ADR Campbell,ZIM,100,143,7,1,69.93,1,New Zealand,Dhaka,24-10-1998
 CB Wishart,ZIM,102,124,4,2,82.25,1,India,Harare,30-09-1998
@@ -1702,9 +1702,9 @@ SR Tendulkar,IND,100,103,13,0,97.08,2,Kenya,Eden Gardens,31-05-1998
 SR Tendulkar,IND,134,131,12,3,102.29,2,Australia,Sharjah,24-04-1998
 MG Bevan,AUS,101,103,9,0,98.05,1,India,Sharjah,22-04-1998
 SR Tendulkar,IND,143,131,9,5,109.16,2,Australia,Sharjah,22-04-1998
-SC Ganguly,IND,105,140,8,1,75,1,New Zealand,Sharjah,17-04-1998
+SC Ganguly,IND,105,140,8,1,75.0,1,New Zealand,Sharjah,17-04-1998
 RT Ponting,AUS,145,158,18,1,91.77,1,Zimbabwe,Delhi,11-04-1998
-M Azharuddin,IND,153,150,17,1,102,1,Zimbabwe,Cuttack,09-04-1998
+M Azharuddin,IND,153,150,17,1,102.0,1,Zimbabwe,Cuttack,09-04-1998
 A Jadeja,IND,116,121,6,2,95.86,1,Zimbabwe,Cuttack,09-04-1998
 GW Flower,ZIM,102,118,8,0,86.44,2,India,Cuttack,09-04-1998
 CB Lambert,WI,119,124,17,2,95.96,1,England,Port of Spain,08-04-1998
@@ -1718,9 +1718,9 @@ BC Lara,WI,110,106,15,3,103.77,2,England,Bridgetown,29-03-1998
 NJ Astle,NZ,104,137,2,3,75.91,2,Zimbabwe,Napier,06-03-1998
 SP Fleming,NZ,111,137,5,0,81.02,2,Australia,Napier,12-02-1998
 AC Gilchrist,AUS,118,117,10,5,100.85,2,New Zealand,Christchurch,08-02-1998
-GW Flower,ZIM,112,138,9,0,81.15,1,Sri Lanka,Colombo (SSC),26-01-1998
-ST Jayasuriya,SL,102,100,13,1,102,2,Zimbabwe,Colombo (SSC),26-01-1998
 AC Gilchrist,AUS,100,104,9,1,96.15,2,South Africa,Sydney,26-01-1998
+ST Jayasuriya,SL,102,100,13,1,102.0,2,Zimbabwe,Colombo (SSC),26-01-1998
+GW Flower,ZIM,112,138,9,0,81.15,1,Sri Lanka,Colombo (SSC),26-01-1998
 MW Goodwin,ZIM,111,134,7,0,82.83,1,Sri Lanka,Colombo (RPS),24-01-1998
 RT Ponting,AUS,100,114,6,0,87.71,1,New Zealand,Melbourne,21-01-1998
 SP Fleming,NZ,116,122,8,0,95.08,2,Australia,Melbourne,21-01-1998
@@ -1735,8 +1735,8 @@ Saeed Anwar,PAK,104,128,8,1,81.25,2,India,Sharjah,14-12-1997
 CL Hooper,WI,100,135,6,0,74.07,1,England,Sharjah,13-12-1997
 AJ Stewart,ENG,116,111,9,1,104.5,1,India,Sharjah,11-12-1997
 ME Waugh,AUS,104,113,8,0,92.03,2,New Zealand,Adelaide,07-12-1997
-ST Jayasuriya,SL,134,114,13,3,117.54,2,Pakistan,Lahore,05-11-1997
 PA de Silva,SL,102,90,12,0,113.33,2,Pakistan,Lahore,05-11-1997
+ST Jayasuriya,SL,134,114,13,3,117.54,2,Pakistan,Lahore,05-11-1997
 Saeed Anwar,PAK,108,129,13,0,83.72,2,West Indies,Lahore,04-11-1997
 CL Hooper,WI,105,101,8,1,103.96,1,South Africa,Lahore,03-11-1997
 DN Chudasama,KENYA,122,113,16,0,107.96,1,Bangladesh,Nairobi (Gym),10-10-1997
@@ -1752,15 +1752,15 @@ ST Jayasuriya,SL,108,83,14,3,130.12,1,Bangladesh,Colombo (SSC),22-07-1997
 A Ranatunga,SL,131,152,17,0,86.18,2,India,Colombo (RPS),18-07-1997
 MG Bevan,AUS,108,129,6,0,83.72,1,England,The Oval,24-05-1997
 MA Atherton,ENG,113,149,10,0,75.83,2,Australia,The Oval,24-05-1997
-Saeed Anwar,PAK,194,146,22,5,132.87,1,India,Chennai,21-05-1997
 R Dravid,IND,107,116,10,0,92.24,2,Pakistan,Chennai,21-05-1997
+Saeed Anwar,PAK,194,146,22,5,132.87,1,India,Chennai,21-05-1997
 ST Jayasuriya,SL,151,120,17,4,125.83,2,India,Wankhede,17-05-1997
 SR Tendulkar,IND,117,137,13,2,85.4,2,New Zealand,Bengaluru,14-05-1997
 NJ Astle,NZ,117,132,9,2,88.63,1,Pakistan,Mohali,09-05-1997
 S Chanderpaul,WI,109,134,15,1,81.34,2,India,Bridgetown,03-05-1997
 MG Bevan,AUS,103,95,8,1,108.42,2,South Africa,Centurion,10-04-1997
 PA de Silva,SL,134,131,11,4,102.29,1,Pakistan,Sharjah,07-04-1997
-ME Waugh,AUS,115,125,8,3,92,2,South Africa,Gqeberha,31-03-1997
+ME Waugh,AUS,115,125,8,3,92.0,2,South Africa,Gqeberha,31-03-1997
 SR Tendulkar,IND,104,97,8,1,107.21,2,Zimbabwe,Benoni,09-02-1997
 BC Lara,WI,103,116,10,0,88.79,2,Pakistan,Perth,10-01-1997
 ME Waugh,AUS,102,114,5,2,89.47,1,West Indies,Brisbane,05-01-1997
@@ -1775,7 +1775,7 @@ MA Taylor,AUS,105,144,9,0,72.91,1,India,Bengaluru,21-10-1996
 G Kirsten,SA,105,134,9,0,78.35,2,Australia,Indore,19-10-1996
 G Kirsten,SA,118,127,16,0,92.91,2,Pakistan,Nairobi (Gym),06-10-1996
 Saeed Anwar,PAK,115,120,13,1,95.83,1,Sri Lanka,Nairobi (Gym),04-10-1996
-Shahid Afridi,PAK,102,40,6,11,255,1,Sri Lanka,Nairobi (Gym),04-10-1996
+Shahid Afridi,PAK,102,40,6,11,255.0,1,Sri Lanka,Nairobi (Gym),04-10-1996
 PA de Silva,SL,122,116,12,2,105.17,2,Pakistan,Nairobi (Gym),04-10-1996
 DJ Cullinan,SA,124,117,12,0,105.98,1,Pakistan,Nairobi (Gym),29-09-1996
 JN Rhodes,SA,121,114,12,0,106.14,1,Pakistan,Nairobi (Gym),29-09-1996
@@ -1783,8 +1783,8 @@ RS Kaluwitharana,SL,100,89,17,1,112.35,2,Kenya,Nairobi (Gym),28-09-1996
 PA de Silva,SL,127,123,13,1,103.25,2,Zimbabwe,Colombo (SSC),03-09-1996
 NV Knight,ENG,125,145,9,0,86.2,1,Pakistan,Nottingham,01-09-1996
 NV Knight,ENG,113,132,11,0,85.6,1,Pakistan,Birmingham,31-08-1996
-SR Tendulkar,IND,110,138,5,1,79.71,1,Sri Lanka,Colombo (RPS),28-08-1996
 ST Jayasuriya,SL,120,128,8,3,93.75,2,India,Colombo (RPS),28-08-1996
+SR Tendulkar,IND,110,138,5,1,79.71,1,Sri Lanka,Colombo (RPS),28-08-1996
 AD Brown,ENG,118,137,10,2,86.13,2,India,Manchester,26-05-1996
 G Kirsten,SA,115,142,4,1,80.98,1,India,Sharjah,19-04-1996
 SR Tendulkar,IND,118,140,8,2,84.28,1,Pakistan,Sharjah,15-04-1996
@@ -1806,7 +1806,7 @@ VG Kambli,IND,106,110,11,0,96.36,1,Zimbabwe,Kanpur,06-03-1996
 PA de Silva,SL,145,115,14,5,126.08,1,Kenya,Kandy,06-03-1996
 AC Hudson,SA,161,132,13,4,121.96,1,Netherlands,Rawalpindi,05-03-1996
 RT Ponting,AUS,102,112,5,1,91.07,1,West Indies,Jaipur,04-03-1996
-SR Tendulkar,IND,137,137,8,5,100,1,Sri Lanka,Delhi,02-03-1996
+SR Tendulkar,IND,137,137,8,5,100.0,1,Sri Lanka,Delhi,02-03-1996
 Aamer Sohail,PAK,111,139,8,0,79.85,1,South Africa,Karachi,29-02-1996
 ME Waugh,AUS,126,135,8,3,93.33,1,India,Wankhede,27-02-1996
 ME Waugh,AUS,130,128,14,1,101.56,1,Kenya,Visakhapatnam,23-02-1996
@@ -1823,7 +1823,7 @@ NJ Astle,NZ,114,128,12,1,89.06,1,India,Nagpur,26-11-1995
 CL Cairns,NZ,103,87,10,4,118.39,1,India,Pune,24-11-1995
 MD Crowe,NZ,107,129,9,2,82.94,2,India,Jamshedpur,15-11-1995
 BM McMillan,SA,127,120,14,3,105.83,1,Zimbabwe,Harare,21-10-1995
-BC Lara,WI,169,129,15,4,131,1,Sri Lanka,Sharjah,16-10-1995
+BC Lara,WI,169,129,15,4,131.0,1,Sri Lanka,Sharjah,16-10-1995
 HP Tillakaratne,SL,100,106,4,1,94.33,2,West Indies,Sharjah,16-10-1995
 Ramiz Raja,PAK,104,134,7,1,77.61,1,West Indies,Sharjah,13-10-1995
 RS Mahanama,SL,101,153,5,1,66.01,1,West Indies,Sharjah,11-10-1995
@@ -1832,7 +1832,7 @@ Saleem Elahi,PAK,102,133,7,1,76.69,2,Sri Lanka,Gujranwala,29-09-1995
 MA Atherton,ENG,127,160,14,1,79.37,1,West Indies,Lord's,28-05-1995
 SR Tendulkar,IND,112,107,15,1,104.67,2,Sri Lanka,Sharjah,09-04-1995
 AP Gurusinha,SL,108,149,10,1,72.48,1,New Zealand,Auckland,01-04-1995
-BC Lara,WI,139,123,15,3,113,1,Australia,Port of Spain,12-03-1995
+BC Lara,WI,139,123,15,3,113.0,1,Australia,Port of Spain,12-03-1995
 Inzamam-ul-Haq,PAK,116,138,9,1,84.05,2,Zimbabwe,Harare,25-02-1995
 Saeed Anwar,PAK,103,131,6,0,78.62,2,Zimbabwe,Harare,22-02-1995
 MJR Rindel,SA,106,139,9,0,76.25,1,Pakistan,Johannesburg,12-01-1995
@@ -1847,7 +1847,7 @@ Aamer Sohail,PAK,100,119,8,0,84.03,2,Sri Lanka,Durban,02-12-1994
 SR Tendulkar,IND,105,134,10,0,78.35,1,West Indies,Jaipur,11-11-1994
 A Jadeja,IND,104,126,4,3,82.53,2,West Indies,Cuttack,09-11-1994
 NS Sidhu,IND,114,103,9,2,110.67,1,West Indies,Visakhapatnam,07-11-1994
-PA de Silva,SL,107,100,9,1,107,1,Zimbabwe,Harare,06-11-1994
+PA de Silva,SL,107,100,9,1,107.0,1,Zimbabwe,Harare,06-11-1994
 ADR Campbell,ZIM,131,115,11,4,113.91,1,Sri Lanka,Harare,05-11-1994
 RS Mahanama,SL,108,149,6,1,72.48,2,Zimbabwe,Harare,05-11-1994
 RS Mahanama,SL,119,142,8,0,83.8,1,Zimbabwe,Harare,03-11-1994
@@ -1858,7 +1858,7 @@ SR Tendulkar,IND,115,136,9,3,84.55,2,New Zealand,Vadodara,28-10-1994
 WJ Cronje,SA,100,124,4,3,80.64,1,Australia,Peshawar,24-10-1994
 ME Waugh,AUS,121,134,9,0,90.29,1,Pakistan,Rawalpindi,22-10-1994
 Saeed Anwar,PAK,104,119,13,1,87.39,2,Australia,Rawalpindi,22-10-1994
-Ijaz Ahmed,PAK,110,110,13,1,100,1,South Africa,Rawalpindi,20-10-1994
+Ijaz Ahmed,PAK,110,110,13,1,100.0,1,South Africa,Rawalpindi,20-10-1994
 SR Tendulkar,IND,110,130,8,2,84.61,1,Australia,Colombo (RPS),09-09-1994
 Aamer Sohail,PAK,134,146,13,0,91.78,1,New Zealand,Sharjah,20-04-1994
 Inzamam-ul-Haq,PAK,137,129,15,0,106.2,1,New Zealand,Sharjah,20-04-1994
@@ -1891,16 +1891,16 @@ VG Kambli,IND,100,149,9,1,67.11,1,England,Jaipur,18-01-1993
 AC Hudson,SA,108,147,8,1,73.46,2,India,Bloemfontein,15-12-1992
 RS Mahanama,SL,107,132,7,0,81.06,1,New Zealand,Colombo (RPS),13-12-1992
 WV Raman,IND,114,148,6,1,77.02,2,South Africa,Centurion,11-12-1992
-PA de Silva,SL,105,105,12,2,100,2,Australia,Colombo (PSS),15-08-1992
+PA de Silva,SL,105,105,12,2,100.0,2,Australia,Colombo (PSS),15-08-1992
 AJ Stewart,ENG,103,145,10,0,71.03,1,Pakistan,The Oval,22-05-1992
 PV Simmons,WI,104,139,10,2,74.82,2,South Africa,Port of Spain,12-04-1992
 PV Simmons,WI,122,113,12,5,107.96,1,South Africa,Kingston,07-04-1992
 DC Boon,AUS,100,147,8,0,68.02,1,West Indies,Melbourne,18-03-1992
 Ramiz Raja,PAK,119,155,16,0,76.77,2,New Zealand,Christchurch,18-03-1992
-PV Simmons,WI,110,125,8,2,88,1,Sri Lanka,Berri,13-03-1992
+PV Simmons,WI,110,125,8,2,88.0,1,Sri Lanka,Berri,13-03-1992
 Aamer Sohail,PAK,114,136,12,0,83.82,1,Zimbabwe,Hobart,27-02-1992
-Ramiz Raja,PAK,102,158,4,0,64.55,1,West Indies,Melbourne,23-02-1992
 A Flower,ZIM,115,152,8,1,75.65,1,Sri Lanka,New Plymouth,23-02-1992
+Ramiz Raja,PAK,102,158,4,0,64.55,1,West Indies,Melbourne,23-02-1992
 MD Crowe,NZ,100,134,11,0,74.62,1,Australia,Auckland,22-02-1992
 DC Boon,AUS,100,133,11,0,75.18,2,New Zealand,Auckland,22-02-1992
 Inzamam-ul-Haq,PAK,117,103,13,0,113.59,1,Sri Lanka,Rawalpindi,19-01-1992
@@ -1936,7 +1936,7 @@ MD Crowe,NZ,104,135,6,1,77.03,1,India,Dunedin,01-03-1990
 Ramiz Raja,PAK,107,154,3,0,69.48,1,Sri Lanka,Adelaide,17-02-1990
 Saeed Anwar,PAK,126,99,8,6,127.27,1,Sri Lanka,Adelaide,17-02-1990
 Ramiz Raja,PAK,116,148,8,0,78.37,2,Sri Lanka,Hobart,15-02-1990
-Ijaz Ahmed,PAK,102,100,9,1,102,2,Sri Lanka,Brisbane,10-02-1990
+Ijaz Ahmed,PAK,102,100,9,1,102.0,2,Sri Lanka,Brisbane,10-02-1990
 DL Haynes,WI,107,137,12,0,78.1,1,Pakistan,Eden Gardens,01-11-1989
 DL Haynes,WI,138,164,12,2,84.14,1,England,Gwalior,27-10-1989
 C Sharma,IND,101,96,8,1,105.2,2,England,Kanpur,25-10-1989
@@ -1964,8 +1964,8 @@ K Srikkanth,IND,112,113,10,5,99.11,1,West Indies,Sharjah,16-10-1988
 Javed Miandad,PAK,100,99,10,0,101.01,1,West Indies,Georgetown,30-03-1988
 M Amarnath,IND,102,139,6,0,73.38,1,New Zealand,Sharjah,27-03-1988
 DL Haynes,WI,142,132,13,1,107.57,1,Pakistan,Port of Spain,18-03-1988
-BC Broad,ENG,106,140,9,1,75.71,1,New Zealand,Napier,16-03-1988
 JG Wright,NZ,101,120,15,0,84.16,2,England,Napier,16-03-1988
+BC Broad,ENG,106,140,9,1,75.71,1,New Zealand,Napier,16-03-1988
 AL Logie,WI,109,119,10,0,91.59,1,Pakistan,Kingston,12-03-1988
 K Srikkanth,IND,101,106,10,3,95.28,1,West Indies,Thiruvananthapuram,25-01-1988
 PV Simmons,WI,104,129,4,4,80.62,2,India,Thiruvananthapuram,25-01-1988
@@ -1981,25 +1981,25 @@ RB Richardson,WI,110,135,8,2,81.48,1,Pakistan,Karachi,30-10-1987
 GR Marsh,AUS,126,149,12,3,84.56,1,New Zealand,Chandigarh,27-10-1987
 Saleem Malik,PAK,100,95,10,0,105.26,1,Sri Lanka,Faisalabad,25-10-1987
 Ramiz Raja,PAK,113,148,5,0,76.35,2,England,Karachi,20-10-1987
-DL Haynes,WI,105,124,10,1,84.67,1,Sri Lanka,Karachi,13-10-1987
 IVA Richards,WI,181,125,16,7,144.8,1,Sri Lanka,Karachi,13-10-1987
+DL Haynes,WI,105,124,10,1,84.67,1,Sri Lanka,Karachi,13-10-1987
 DL Houghton,ZIM,142,137,13,6,103.64,2,New Zealand,Hyderabad (Deccan),10-10-1987
 GR Marsh,AUS,110,141,7,1,78.01,1,India,Chennai,09-10-1987
-Javed Miandad,PAK,103,100,6,0,103,1,Sri Lanka,Hyderabad (Sind),08-10-1987
+Javed Miandad,PAK,103,100,6,0,103.0,1,Sri Lanka,Hyderabad (Sind),08-10-1987
 Javed Miandad,PAK,113,145,11,0,77.93,1,England,The Oval,21-05-1987
-CG Greenidge,WI,133,140,16,4,95,2,New Zealand,Christchurch,28-03-1987
+CG Greenidge,WI,133,140,16,4,95.0,2,New Zealand,Christchurch,28-03-1987
 M Prabhakar,IND,106,121,13,0,87.6,1,Pakistan,Jamshedpur,26-03-1987
-CG Greenidge,WI,104,100,9,4,104,2,New Zealand,Auckland,21-03-1987
+CG Greenidge,WI,104,100,9,4,104.0,2,New Zealand,Auckland,21-03-1987
 IVA Richards,WI,119,113,10,4,105.3,1,New Zealand,Dunedin,18-03-1987
 K Srikkanth,IND,123,103,14,1,119.41,1,Pakistan,Eden Gardens,18-02-1987
-DM Jones,AUS,101,101,6,2,100,1,England,Brisbane,18-01-1987
+DM Jones,AUS,101,101,6,2,100.0,1,England,Brisbane,18-01-1987
 CWJ Athey,ENG,111,152,10,0,73.02,2,Australia,Brisbane,18-01-1987
 M Azharuddin,IND,108,94,8,0,114.89,1,Sri Lanka,Wankhede,17-01-1987
 CG Greenidge,WI,100,119,12,0,84.03,1,Australia,Perth,04-01-1987
 DM Jones,AUS,121,113,9,2,107.07,1,Pakistan,Perth,02-01-1987
 DM Jones,AUS,104,125,9,2,83.2,2,England,Perth,01-01-1987
 RB Richardson,WI,109,120,8,1,90.83,1,Sri Lanka,Sharjah,03-12-1986
-R Lamba,IND,102,120,8,2,85,1,Australia,Rajkot,07-10-1986
+R Lamba,IND,102,120,8,2,85.0,1,Australia,Rajkot,07-10-1986
 GR Marsh,AUS,104,139,9,1,74.82,1,India,Jaipur,07-09-1986
 DC Boon,AUS,111,118,10,2,94.06,1,India,Jaipur,07-09-1986
 K Srikkanth,IND,102,104,10,1,98.07,2,Australia,Jaipur,07-09-1986
@@ -2029,7 +2029,7 @@ IVA Richards,WI,189,170,21,5,111.17,1,England,Manchester,31-05-1984
 DL Haynes,WI,104,102,10,1,101.96,2,Australia,Kingston,26-04-1984
 DL Haynes,WI,102,142,11,3,71.83,2,Australia,Castries,19-04-1984
 DL Haynes,WI,133,147,14,0,90.47,2,Australia,Albion,29-02-1984
-MD Crowe,NZ,105,105,11,1,100,2,England,Auckland,25-02-1984
+MD Crowe,NZ,105,105,11,1,100.0,2,England,Auckland,25-02-1984
 SB Smith,AUS,106,129,12,0,82.17,1,Pakistan,Sydney,25-01-1984
 IVA Richards,WI,106,95,12,1,111.57,1,Australia,Melbourne,22-01-1984
 DL Haynes,WI,108,130,8,0,83.07,1,Australia,Sydney,17-01-1984
@@ -2044,7 +2044,7 @@ TM Chappell,AUS,110,131,11,0,83.96,1,India,Nottingham,13-06-1983
 DI Gower,ENG,130,120,12,5,108.33,1,Sri Lanka,Taunton,11-06-1983
 AJ Lamb,ENG,102,105,12,2,97.14,1,New Zealand,The Oval,09-06-1983
 GM Turner,NZ,140,130,13,3,107.69,1,Sri Lanka,Auckland,20-03-1983
-SB Smith,AUS,117,130,10,0,90,1,New Zealand,Melbourne,13-02-1983
+SB Smith,AUS,117,130,10,0,90.0,1,New Zealand,Melbourne,13-02-1983
 DI Gower,ENG,109,85,12,1,128.23,1,New Zealand,Adelaide,29-01-1983
 Zaheer Abbas,PAK,113,99,11,3,114.14,2,India,Karachi,21-01-1983
 AJ Lamb,ENG,108,106,9,1,101.88,2,New Zealand,Sydney,20-01-1983
@@ -2054,7 +2054,7 @@ Zaheer Abbas,PAK,105,82,8,1,128.04,1,India,Lahore,31-12-1982
 Javed Miandad,PAK,119,77,6,5,154.54,1,India,Lahore,31-12-1982
 Mohsin Khan,PAK,117,118,9,1,99.15,1,India,Multan,17-12-1982
 Zaheer Abbas,PAK,118,86,10,4,137.2,1,India,Multan,17-12-1982
-Javed Miandad,PAK,106,106,12,1,100,1,India,Gujranwala,03-12-1982
+Javed Miandad,PAK,106,106,12,1,100.0,1,India,Gujranwala,03-12-1982
 Zaheer Abbas,PAK,109,95,12,2,114.73,1,Australia,Lahore,08-10-1982
 RL Dias,SL,121,144,11,0,84.02,1,India,Bengaluru,26-09-1982
 Mohsin Khan,PAK,104,101,15,0,102.97,1,Australia,Hyderabad (Sind),20-09-1982
@@ -2065,7 +2065,7 @@ GS Chappell,AUS,108,92,15,0,117.39,2,New Zealand,Auckland,13-02-1982
 Zaheer Abbas,PAK,108,110,12,0,98.18,2,Australia,Sydney,17-12-1981
 BM Laird,AUS,117,159,10,0,73.58,2,West Indies,Sydney,24-11-1981
 CG Greenidge,WI,103,161,5,1,63.97,1,Pakistan,Melbourne,21-11-1981
-GM Wood,AUS,108,150,8,0,72,1,England,Leeds,08-06-1981
+GM Wood,AUS,108,150,8,0,72.0,1,England,Leeds,08-06-1981
 BA Edgar,NZ,102,141,7,0,72.34,2,Australia,Melbourne,01-02-1981
 AR Border,AUS,105,122,12,0,86.06,2,India,Sydney,18-12-1980
 GS Chappell,AUS,138,109,10,1,126.6,1,New Zealand,Sydney,25-11-1980
@@ -2075,14 +2075,14 @@ G Boycott,ENG,105,124,7,0,84.67,1,Australia,Sydney,11-12-1979
 IVA Richards,WI,153,130,16,1,117.69,1,Australia,Melbourne,09-12-1979
 IVA Richards,WI,138,157,11,3,87.89,1,England,Lord's,23-06-1979
 CG Greenidge,WI,106,173,9,1,61.27,2,India,Birmingham,09-06-1979
-DI Gower,ENG,101,100,9,0,101,1,Australia,Melbourne,04-02-1979
+DI Gower,ENG,101,100,9,0,101.0,1,Australia,Melbourne,04-02-1979
 CT Radley,ENG,117,140,11,0,83.57,1,New Zealand,Manchester,17-07-1978
 DI Gower,ENG,114,122,6,0,93.44,1,Pakistan,The Oval,26-05-1978
 DL Haynes,WI,148,136,16,2,108.82,1,Australia,St John's,22-02-1978
-DL Amiss,ENG,108,146,7,0,73.97,1,Australia,The Oval,06-06-1977
 GS Chappell,AUS,125,137,11,0,91.24,2,England,The Oval,06-06-1977
+DL Amiss,ENG,108,146,7,0,73.97,1,Australia,The Oval,06-06-1977
 IVA Richards,WI,119,133,20,1,89.47,2,England,Scarborough,26-08-1976
-CH Lloyd,WI,102,85,12,2,120,1,Australia,Lord's,21-06-1975
+CH Lloyd,WI,102,85,12,2,120.0,1,Australia,Lord's,21-06-1975
 GM Turner,NZ,114,177,13,0,64.4,2,India,Manchester,14-06-1975
 A Turner,AUS,101,113,9,1,89.38,1,Sri Lanka,The Oval,11-06-1975
 KWR Fletcher,ENG,131,147,13,0,89.11,1,New Zealand,Nottingham,11-06-1975
