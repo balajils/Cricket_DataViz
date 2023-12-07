@@ -6,7 +6,6 @@ import csv
 
 #Module to clean data and change data types for manipulation/analysis
 def data_clean(Data):
-    #Below commands are to clean the data and change data types for further analysis
     Data.insert(1,Data[0][Data[0].index('(')+1:-1])
     Data[0]=Data[0][:Data[0].index('(')-1]
     Data.remove('')
@@ -71,8 +70,3 @@ while True:
     driver.close()
     driver = webdriver.Chrome(options=chrome_options) 
     driver.get(url_nextpage)
-
-
-    
-    
-
