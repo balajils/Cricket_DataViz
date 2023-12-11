@@ -1,31 +1,11 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from datetime import datetime
 from selenium.common.exceptions import NoSuchElementException
-import csv
+import pandas as pd
+from datetime import datetime
+import re
 
-#Module to clean data and change data types for manipulation/analysis
-def data_clean(Data):
-    Data.insert(1,Data[0][Data[0].index('(')+1:-1])
-    Data[0]=Data[0][:Data[0].index('(')-1]
-    Data.remove('')
-    Data.remove('')
-    del Data[3]
-    Data[8]=Data[8][2:]
-    if Data[2][len(Data[2])-1]=='*':
-        Data[2]=Data[2][:-1]
-    Data[2:6] = [int(i) if i.isdigit() else 0 for i in Data[2:6]]
-    Data[6]=float(Data[6])
-    Data[7]=int(Data[7])
-    Data[10]=datetime.strptime(Data[10],'%d %b %Y').date()
-    return Data
-
-#Module to write the data one entry (one row) at a time
-def write_to_csv(Data):
-    with open('Cricinfo.csv', 'a', encoding='UTF8', newline='') as f:
-        writer = csv.writer(f)
-        writer.writerow(Data)
-        f.close()
+data = [] 
 
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_experimental_option("detach",True)
@@ -36,37 +16,60 @@ with open("URL for data.txt") as f:
 
 driver = webdriver.Chrome(options=chrome_options)
 driver.get(url)
-i=1 # Counter
 
-#Gets column names for cricket stats
-heading = driver.find_element(By.TAG_NAME,"thead")
-attributes = heading.find_elements(By.TAG_NAME,'th')
-attr = [i.text for i in attributes]
-#Cleaning of column names
-attr.insert(1,"Country")
-attr.remove('Mins')
-attr.remove('')
-attr.remove('') 
-write_to_csv(attr) # csv file created and column names added
-print("csv file created")
+table_header = driver.find_element(By.XPATH, "//table[@class='engineTable']/thead/tr")
+column_names = [ele.text for ele in table_header.find_elements(By.TAG_NAME, "th")]
 
-while True:
-    page_data = driver.find_elements(By.CLASS_NAME,'data1') #Get all the rows from the page
+# Load the existing data from the CSV file
+try:
+    df_existing = pd.read_csv('cricinfo_data.csv')
+    df_existing['Start Date'] = pd.to_datetime(df_existing['Start Date'], format='%d-%m-%Y')
+    latest_date = pd.to_datetime(df_existing['Start Date']).max()
+    latest_date = latest_date.strftime('%d-%m-%Y')
+except FileNotFoundError:
+    # If the file does not exist, create an empty DataFrame and set the latest date to an old date
+    df_existing = pd.DataFrame(columns=column_names)
+    latest_date = pd.to_datetime('1900-01-01').date()
+    latest_date = latest_date.strftime('%d-%m-%Y')
+i=1   
+break_while = False
+while break_while == False:
+    page_data = driver.find_elements(By.CLASS_NAME,'data1') # Get all the rows from the page
     for row_data in page_data:
         row = row_data.find_elements(By.TAG_NAME,'td')
         row_list = [k.text for k in row]
-        row_list = data_clean(row_list)
-        write_to_csv(row_list)
-        print(f"row {i} added to csv file")
+        data_dict = dict(zip(column_names, row_list))
+        data_dict['Start Date'] = pd.to_datetime(data_dict['Start Date'], dayfirst=False)
+        data_dict['Start Date'] = data_dict['Start Date'].strftime('%d-%m-%Y')
+        if data_dict['Start Date'] == latest_date:
+            break_while  = True
+            break
+        data.append(row_list)
+        print(f"row {i} added")
         i += 1
-    try:
-        nextpage = driver.find_element(By.LINK_TEXT, "Next")
-        url_nextpage = nextpage.get_attribute('href')
-        print("next page")
-    except NoSuchElementException:
-        print("end")
+    if break_while == False:
+        try:
+            nextpage = driver.find_element(By.LINK_TEXT, "Next")
+            url_nextpage = nextpage.get_attribute('href')
+            print("next page")
+        except NoSuchElementException:
+            print("last page")
+            break
         driver.close()
-        break  
-    driver.close()
-    driver = webdriver.Chrome(options=chrome_options) 
-    driver.get(url_nextpage)
+        driver = webdriver.Chrome(options=chrome_options) 
+        driver.get(url_nextpage)
+
+df = pd.DataFrame(data, columns=column_names)
+df = pd.concat([df_existing, df])
+df = df.drop_duplicates()
+df = df.drop(['Mins',''], axis=1)
+
+df['Runs'] = df['Runs'].str.replace("*", "")
+df['Opposition'] = df['Opposition'].str.replace("v ", "")
+df.insert(1, 'Country', '')
+df['Country'] = df['Player'].str.extract('\\((.*?)\\)', expand=False)
+df['Player'] = df['Player'].apply(lambda x: re.sub(r' \(.*?\)', '', x))
+
+df.to_csv('cricket_data.csv', index=False)
+print(df.head())
+driver.close()
