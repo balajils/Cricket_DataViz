@@ -14,16 +14,16 @@ with open("URL for data.txt") as f:
     url = f.read()
 
 data = []
-i=1   # Counter
+i=1
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_experimental_option("detach",True)
 driver = webdriver.Chrome(options=chrome_options) 
 driver.get(url)
 time.sleep(2)   #Sleep time to be adjusted based on internet connection
 
-#Get the column names from the web page
+# Get the column names from the web page
 table_header = driver.find_element(By.XPATH, "//table[@class='engineTable']/thead/tr")
-column_names = [ele.text for ele in table_header.find_elements(By.TAG_NAME, "th")]
+column_names = [col.text for col in table_header.find_elements(By.TAG_NAME, "th")]
 
 # Load the existing data from the CSV file if already present
 try:
@@ -39,8 +39,8 @@ except FileNotFoundError:
     latest_date = pd.to_datetime('1900-01-01').date()
     latest_date = latest_date.strftime('%d-%b-%Y')
 
-# While loop will navigate to all pages that contain data relevant to user, using the 'Next' buttom
-# While loop will also run till the latest entry, if present, in CSV file matches with scraped data. Efficient data updation
+# Loop to navigate to all pages that contain data relevant to user, using 'Next'
+# And run till the latest entry, if present, in CSV file if matched with scraped data
 break_while = False
 while break_while == False:
     page_data = driver.find_elements(By.CLASS_NAME,'data1') # Get all the rows from the page
@@ -55,7 +55,7 @@ while break_while == False:
             break_while  = True
             break
         data.append(row_list)
-        print(f"row {i} added") # Counter provides feeback that programme is running as expected
+        print(f"row {i} added")
         i += 1
     if break_while == False:    # Page navigation
         try:
@@ -75,12 +75,12 @@ df = pd.DataFrame(data, columns=column_names)
 # Below section checks whether scraped data from the run needs to be concatenated with existing data
 # Dataframe is modified to be readable and useful for further analysis
 if not df.empty:
-    #Removing unwanted columns/data
+    # Removing unwanted columns/data
     df = df.drop(['Mins',''], axis=1) 
     df['Runs'] = df['Runs'].str.replace("*", "")
     df['Opposition'] = df['Opposition'].str.replace("v ", "")
     
-    df.insert(1, 'Country', '') #Extracts player's country name and inserts it as a new column in the dataframe
+    df.insert(1, 'Country', '') # Extracts player's country name and inserts it as a new column in the dataframe
     df['Country'] = df['Player'].str.extract('\\((.*?)\\)', expand=False)
 
     df['Player'] = df['Player'].apply(lambda x: re.sub(r' \(.*?\)', '', x)) # Removes country name from 'Player'
@@ -93,5 +93,5 @@ if not df.empty:
     print(df.head())
     print("Your data set has been updated")
 else:
-    print("Your data set is up to date")    # If CSV file is up to date, no concat is required
+    print("Your data set is up to date")
 driver.close()
