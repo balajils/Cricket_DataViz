@@ -1,6 +1,8 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 import pandas as pd
 import re
 import time
@@ -19,7 +21,7 @@ chrome_options = webdriver.ChromeOptions()
 chrome_options.add_experimental_option("detach",True)
 driver = webdriver.Chrome(options=chrome_options) 
 driver.get(url)
-time.sleep(2)   #Sleep time to be adjusted based on internet connection
+WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.XPATH, "//table[@class='engineTable']")))
 
 # Get the column names from the web page
 table_header = driver.find_element(By.XPATH, "//table[@class='engineTable']/thead/tr")
@@ -68,7 +70,7 @@ while break_while == False:
         driver.close()
         driver = webdriver.Chrome(options=chrome_options) 
         driver.get(url_nextpage)
-        time.sleep(2)   #Sleep time to be adjusted based on internet connection
+        WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.LINK_TEXT, "Next")))
 
 df = pd.DataFrame(data, columns=column_names)
 
