@@ -39,7 +39,7 @@ def animate(i):
 
 # Create the figure and initialize the animation
 fig, ax = plt.subplots()
-ani = FuncAnimation(fig, animate, frames=300, interval=200)
+ani = FuncAnimation(fig, animate, frames=400, interval=200)
 
 try:
     plt.tight_layout()
