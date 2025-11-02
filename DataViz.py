@@ -2,11 +2,11 @@ from matplotlib.animation import FuncAnimation
 import matplotlib.pyplot as plt
 import pandas as pd
 import os
-
+print(os.getcwd())
 # Change working directory and load data
-os.chdir("../Cricket_DataViz/Data Scraping")
+os.chdir("Cricket_DataViz/Data Scraping")
 path = "cricket_data.csv"
-
+print(os.getcwd())
 # Load and preprocess data
 data = pd.read_csv(path)
 data['Start Date'] = pd.to_datetime(data['Start Date'])
