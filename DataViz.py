@@ -4,7 +4,7 @@ import pandas as pd
 import os
 print(os.getcwd())
 # Change working directory and load data
-os.chdir("Cricket_DataViz/Data Scraping")
+os.chdir("Data Scraping")
 path = "cricket_data.csv"
 print(os.getcwd())
 # Load and preprocess data
